@@ -1,20 +1,20 @@
-org_kod;organisationstyp
+org_kod;org
 AB;Antal Aktiebolag
 BAB;Antal Bankaktiebolag
-BF;Antal Bostadsföreningar
-BRF;Antal Bostadsrättsföreningar
-EK;Antal Ekonomisk föreningar
-E;Antal Enskilda näringsidkare
+BF;Antal BostadsfÃ¶reningar
+BRF;Antal BostadsrÃ¤ttsfÃ¶reningar
+EK;Antal Ekonomisk fÃ¶reningar
+E;Antal Enskilda nÃ¤ringsidkare
 SE;Antal Europabolag
-FL;Antal Filialer till utländska företag
-FAB;Antal Försäkringsaktiebolag
+FL;Antal Filialer till utlÃ¤ndska fÃ¶retag
+FAB;Antal FÃ¶rsÃ¤kringsaktiebolag
 HB;Antal Handelsbolag
-I;Antal Ideella föreningar som bedriver näring
+I;Antal Ideella fÃ¶reningar som bedriver nÃ¤ring
 KB;Antal Kommanditbolag
-KHF;Antal Kooperativa hyresrättsföreningar
+KHF;Antal Kooperativa hyresrÃ¤ttsfÃ¶reningar
 MB;Antal Medlemsbanker
-SF;Antal Sambruksföreningar
+SF;Antal SambruksfÃ¶reningar
 SB;Antal Sparbanker
 TSF;Antal Trossamfund
-BFL;Antal Utländska bankers filialer
-OFB;Antal Ömsesidiga försäkringsbolag
+BFL;Antal UtlÃ¤ndska bankers filialer
+OFB;Antal Ã–msesidiga fÃ¶rsÃ¤kringsbolag
