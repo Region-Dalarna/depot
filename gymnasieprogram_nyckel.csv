@@ -1,0 +1,1612 @@
+Gymnasieprogram_kod,Gymnasieprogram,Gymnasieprogramstyp
+*,Uppgift saknas,
+BA,Bygg- och anläggningsprogrammet,Yrkesprogram
+BA000000I,Bygg- och anläggningsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BA000000N,Bygg- och anläggningsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAANL,"Bygg- och anläggningsprogrammet, Anläggningsfordon",Yrkesprogram
+BAANL000I,Bygg- och anläggningsprogrammet; Anläggningsfordon (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAANL000N,Bygg- och anläggningsprogrammet; Anläggningsfordon (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAANL0A0I,"Bygg- och anläggningsprogrammet; Anläggningsfordon, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAANL0A0N,"Bygg- och anläggningsprogrammet; Anläggningsfordon, anställd lärlingb (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAANL0L,"Bygg- och anläggningsprogrammet, Anläggningsfordon, lärling",Yrkesprogram
+BAANL0L0I,"Bygg- och anläggningsprogrammet; Anläggningsfordon, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAANL0L0N,"Bygg- och anläggningsprogrammet; Anläggningsfordon, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAHUS,"Bygg- och anläggningsprogrammet, Husbyggnad",Yrkesprogram
+BAHUS000I,Bygg- och anläggningsprogrammet; Husbyggnad (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAHUS000N,Bygg- och anläggningsprogrammet; Husbyggnad (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAHUS0A,"Bygg- och anläggningsprogrammet; Husbyggnad, anställd lärling",Yrkesprogram
+BAHUS0A0I,"Bygg- och anläggningsprogrammet; Husbyggnad, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAHUS0A0N,"Bygg- och anläggningsprogrammet; Husbyggnad, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAHUS0L,"Bygg- och anläggningsprogrammet, Husbyggnad, lärling",Yrkesprogram
+BAHUS0L0I,"Bygg- och anläggningsprogrammet; Husbyggnad, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAHUS0L0N,"Bygg- och anläggningsprogrammet; Husbyggnad, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAHUSV,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant",Yrkesprogram
+BAHUSV00I,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAHUSV00N,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAHUSVA,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, anställd lärling",Yrkesprogram
+BAHUSVA0I,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAHUSVA0N,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAHUSVL,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, lärling",Yrkesprogram
+BAHUSVL0I,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAHUSVL0N,"Bygg- och anläggningsprogrammet; Husbyggnad, särskild variant, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAL,"Bygg- och anläggningsprogrammet, Måleri",Yrkesprogram
+BAMAL000I,Bygg- och anläggningsprogrammet; Måleri (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAMAL000N,Bygg- och anläggningsprogrammet; Måleri (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAMAL0A,"Bygg- och anläggningsprogrammet; Måleri, anställd lärling",Yrkesprogram
+BAMAL0A0I,"Bygg- och anläggningsprogrammet; Måleri, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAL0A0N,"Bygg- och anläggningsprogrammet; Måleri, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAL0L,"Bygg- och anläggningsprogrammet, Måleri, lärling",Yrkesprogram
+BAMAL0L0I,"Bygg- och anläggningsprogrammet; Måleri, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAL0L0N,"Bygg- och anläggningsprogrammet; Måleri, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAR,"Bygg- och anläggningsprogrammet, Mark och anläggning",Yrkesprogram
+BAMAR000I,Bygg- och anläggningsprogrammet; Mark och anläggning (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAMAR000N,Bygg- och anläggningsprogrammet; Mark och anläggning (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAMAR00R,"Bygg- och anläggningsprogrammet, Mark och anläggning (riksrekryterande)",Yrkesprogram
+BAMAR00RI,Bygg- och anläggningsprogrammet; Mark och anläggning (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAMAR00RN,Bygg- och anläggningsprogrammet; Mark och anläggning (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAMAR0A,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling",Yrkesprogram
+BAMAR0A0I,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAR0A0N,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAR0AR,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling (riksrekryterande)",Yrkesprogram
+BAMAR0ARI,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAR0ARN,"Bygg- och anläggningsprogrammet; Mark och anläggning, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAR0L,"Bygg- och anläggningsprogrammet, Mark och anläggning, lärling",Yrkesprogram
+BAMAR0L0I,"Bygg- och anläggningsprogrammet; Mark och anläggning, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAR0L0N,"Bygg- och anläggningsprogrammet; Mark och anläggning, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAMAR0LR,"Bygg- och anläggningsprogrammet, Mark och anläggning, lärling (riksrekryterande)",Yrkesprogram
+BAMAR0LRI,"Bygg- och anläggningsprogrammet; Mark och anläggning, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAMAR0LRN,"Bygg- och anläggningsprogrammet; Mark och anläggning, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAPLA,"Bygg- och anläggningsprogrammet, Plåtslageri",Yrkesprogram
+BAPLA000I,Bygg- och anläggningsprogrammet; Plåtslageri (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BAPLA000N,Bygg- och anläggningsprogrammet; Plåtslageri (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BAPLA0A,"Bygg- och anläggningsprogrammet; Plåtslageri, anställd lärling",Yrkesprogram
+BAPLA0A0I,"Bygg- och anläggningsprogrammet; Plåtslageri, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAPLA0A0N,"Bygg- och anläggningsprogrammet; Plåtslageri, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BAPLA0L,"Bygg- och anläggningsprogrammet, Plåtslageri, lärling",Yrkesprogram
+BAPLA0L0I,"Bygg- och anläggningsprogrammet; Plåtslageri, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BAPLA0L0N,"Bygg- och anläggningsprogrammet; Plåtslageri, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BF,Barn- och fritidsprogrammet,Yrkesprogram
+BF000000I,Barn- och fritidsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BF000000N,Barn- och fritidsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BFFRI,"Barn- och fritidsprogrammet, Fritid och hälsa",Yrkesprogram
+BFFRI000I,Barn- och fritidsprogrammet; Fritid och hälsa (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BFFRI000N,Barn- och fritidsprogrammet; Fritid och hälsa (NIU),Yrkesprogram
+BFFRI0A,"Barn- och fritidsprogrammet; Fritid och hälsa, anställd lärling",Yrkesprogram
+BFFRI0A0I,"Barn- och fritidsprogrammet; Fritid och hälsa, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFFRI0A0N,"Barn- och fritidsprogrammet; Fritid och hälsa, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BFFRI0L,"Barn- och fritidsprogrammet, Fritid och hälsa, lärling",Yrkesprogram
+BFFRI0L0I,"Barn- och fritidsprogrammet; Fritid och hälsa, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFFRI0L0N,"Barn- och fritidsprogrammet; Fritid och hälsa, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BFPED,"Barn- och fritidsprogrammet, Pedagogiskt arbete",Yrkesprogram
+BFPED000I,Barn- och fritidsprogrammet; Pedagogiskt arbete (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BFPED000N,Barn- och fritidsprogrammet; Pedagogiskt arbete (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BFPED0A,"Barn- och fritidsprogrammet; Pedagogiskt arbete, anställd lärling",Yrkesprogram
+BFPED0A0I,"Barn- och fritidsprogrammet; Pedagogiskt arbete, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFPED0A0N,"Barn- och fritidsprogrammet; Pedagogiskt arbete, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BFPED0L,"Barn- och fritidsprogrammet, Pedagogiskt arbete, lärling",Yrkesprogram
+BFPED0L0I,"Barn- och fritidsprogrammet; Pedagogiskt arbete, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFPED0L0N,"Barn- och fritidsprogrammet; Pedagogiskt arbete, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BFSOC,"Barn- och fritidsprogrammet, Socialt arbete",Yrkesprogram
+BFSOC000I,Barn- och fritidsprogrammet; Socialt arbete (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+BFSOC000N,Barn- och fritidsprogrammet; Socialt arbete (Nationellt godkänd idrottsutbildning),Yrkesprogram
+BFSOC0A,"Barn- och fritidsprogrammet; Socialt arbete, anställd lärling",Yrkesprogram
+BFSOC0A0I,"Barn- och fritidsprogrammet; Socialt arbete, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFSOC0A0N,"Barn- och fritidsprogrammet; Socialt arbete, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+BFSOC0L,"Barn- och fritidsprogrammet, Socialt arbete, lärling",Yrkesprogram
+BFSOC0L0I,"Barn- och fritidsprogrammet; Socialt arbete, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+BFSOC0L0N,"Barn- och fritidsprogrammet; Socialt arbete, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EE,El- och energiprogrammet,Yrkesprogram
+EE000000I,El- och energiprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EE000000N,El- och energiprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEAUT,"El- och energiprogrammet, Automation",Yrkesprogram
+EEAUT000I,El- och energiprogrammet; Automation (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEAUT000N,El- och energiprogrammet; Automation (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEAUT0A,"El- och energiprogrammet; Automation, anställd lärling",Yrkesprogram
+EEAUT0A0I,"El- och energiprogrammet; Automation, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEAUT0A0N,"El- och energiprogrammet; Automation, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEAUT0L,"El- och energiprogrammet, Automation, lärling",Yrkesprogram
+EEAUT0L0I,"El- och energiprogrammet; Automation, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEAUT0L0N,"El- och energiprogrammet; Automation, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEDAT,"El- och energiprogrammet, Dator- och kommunikationsteknik",Yrkesprogram
+EEDAT000I,El- och energiprogrammet; Dator- och kommunikationsteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEDAT000N,El- och energiprogrammet; Dator- och kommunikationsteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEDAT0A,"El- och energiprogrammet; Dator- och kommunikationsteknik, anställd lärling",Yrkesprogram
+EEDAT0A0I,"El- och energiprogrammet; Dator- och kommunikationsteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEDAT0A0N,"El- och energiprogrammet; Dator- och kommunikationsteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEDAT0L,"El- och energiprogrammet, Dator- och kommunikationsteknik, lärling",Yrkesprogram
+EEDAT0L0I,"El- och energiprogrammet; Dator- och kommunikationsteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEDAT0L0N,"El- och energiprogrammet; Dator- och kommunikationsteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELT,"El- och energiprogrammet, Elteknik",Yrkesprogram
+EEELT000I,El- och energiprogrammet; Elteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEELT000N,El- och energiprogrammet; Elteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEELT00R,"El- och energiprogrammet, Elteknik (riksrekryterande)",Yrkesprogram
+EEELT00RI,El- och energiprogrammet; Elteknik (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEELT00RN,El- och energiprogrammet; Elteknik (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEELT0A,"El- och energiprogrammet; Elteknik, anställd lärling",Yrkesprogram
+EEELT0A0I,"El- och energiprogrammet; Elteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELT0A0N,"El- och energiprogrammet; Elteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELT0AR,"El- och energiprogrammet; Elteknik, anställd lärling (riksrekryterande)",Yrkesprogram
+EEELT0ARI,"El- och energiprogrammet; Elteknik, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELT0ARN,"El- och energiprogrammet; Elteknik, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELT0L,"El- och energiprogrammet, Elteknik, lärling",Yrkesprogram
+EEELT0L0I,"El- och energiprogrammet; Elteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELT0L0N,"El- och energiprogrammet; Elteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELT0LR,"El- och energiprogrammet, Elteknik, lärling (riksrekryterande)",Yrkesprogram
+EEELT0LRI,"El- och energiprogrammet; Elteknik, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELT0LRN,"El- och energiprogrammet; Elteknik, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTV,"El- och energiprogrammet, Elteknik, särskild variant",Yrkesprogram
+EEELTV00I,"El- och energiprogrammet; Elteknik, särskild variant (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTV00N,"El- och energiprogrammet; Elteknik, särskild variant (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTV0R,"El- och energiprogrammet; Elteknik, särskild variant (riksrekryterande)",Yrkesprogram
+EEELTV0RI,"El- och energiprogrammet; Elteknik, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTV0RN,"El- och energiprogrammet; Elteknik, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTVA,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling",Yrkesprogram
+EEELTVA0I,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTVA0N,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTVAR,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+EEELTVARI,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTVARN,"El- och energiprogrammet; Elteknik, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTVL,"El- och energiprogrammet, Elteknik, särskild variant, lärling",Yrkesprogram
+EEELTVL0I,"El- och energiprogrammet; Elteknik, särskild variant, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTVL0N,"El- och energiprogrammet; Elteknik, särskild variant, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEELTVLR,"El- och energiprogrammet; Elteknik, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+EEELTVLRI,"El- och energiprogrammet; Elteknik, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEELTVLRN,"El- och energiprogrammet; Elteknik, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEENE,"El- och energiprogrammet, Energiteknik",Yrkesprogram
+EEENE000I,El- och energiprogrammet; Energiteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEENE000N,El- och energiprogrammet; Energiteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEENE00R,"El- och energiprogrammet, Energiteknik (riksrekryterande)",Yrkesprogram
+EEENE00RI,El- och energiprogrammet; Energiteknik (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+EEENE00RN,El- och energiprogrammet; Energiteknik (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+EEENE0A,"El- och energiprogrammet; Energiteknik, anställd lärling",Yrkesprogram
+EEENE0A0I,"El- och energiprogrammet; Energiteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEENE0A0N,"El- och energiprogrammet; Energiteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEENE0AR,"El- och energiprogrammet; Energiteknik, anställd lärling (riksrekryterande)",Yrkesprogram
+EEENE0ARI,"El- och energiprogrammet; Energiteknik, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEENE0ARN,"El- och energiprogrammet; Energiteknik, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEENE0L,"El- och energiprogrammet, Energiteknik, lärling",Yrkesprogram
+EEENE0L0I,"El- och energiprogrammet; Energiteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEENE0L0N,"El- och energiprogrammet; Energiteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EEENE0LR,"El- och energiprogrammet, Energiteknik, lärling (riksrekryterande)",Yrkesprogram
+EEENE0LRI,"El- och energiprogrammet; Energiteknik, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+EEENE0LRN,"El- och energiprogrammet; Energiteknik, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+EK,Ekonomiprogrammet,Högskoleförberedande program
+EK000000I,Ekonomiprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+EK000000N,Ekonomiprogrammet (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+EKEKNVS,"Ekonomiprogrammet; Särskild variant, internationell ekonomi (spetsutbildning)",Högskoleförberedande program
+EKEKNVS0I,"Ekonomiprogrammet; Särskild variant, internationell ekonomi (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKEKNVS0N,"Ekonomiprogrammet; Särskild variant, internationell ekonomi (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+EKEKO,"Ekonomiprogrammet, Ekonomi",Högskoleförberedande program
+EKEKO000I,Ekonomiprogrammet; Ekonomi (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+EKEKO000N,Ekonomiprogrammet; Ekonomi (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+EKEKOVE,"Ekonomiprogrammet, Ekonomi, särskild variant inom det estetiska området",Högskoleförberedande program
+EKEKOVE0I,"Ekonomiprogrammet; Ekonomi, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKEKOVE0N,"Ekonomiprogrammet; Ekonomi, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+EKENTVS,"Ekonomiprogrammet, Särskild variant, entreprenörskap (spetsutbildning)",Högskoleförberedande program
+EKENTVS0I,"Ekonomiprogrammet; Särskild variant, entreprenörskap (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKENTVS0N,"Ekonomiprogrammet; Särskild variant, entreprenörskap (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+EKFINVS,"Ekonomiprogrammet, Särskild variant, finans (spetsutbildning)",Högskoleförberedande program
+EKFINVS0I,"Ekonomiprogrammet; Särskild variant, finans (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKFINVS0N,"Ekonomiprogrammet; Särskild variant, finans (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+EKJUR,"Ekonomiprogrammet, Juridik",Högskoleförberedande program
+EKJUR000I,Ekonomiprogrammet; Juridik (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+EKJUR000N,Ekonomiprogrammet; Juridik (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+EKJURVE,"Ekonomiprogrammet, Juridik, särskild variant inom det estetiska området",Högskoleförberedande program
+EKJURVE0I,"Ekonomiprogrammet; Juridik, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKJURVE0N,"Ekonomiprogrammet; Juridik, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+EKMUSVE,"Ekonomiprogrammet; Särskild variant inom det estetiska området, musik",Högskoleförberedande program
+EKMUSVE0I,"Ekonomiprogrammet; Särskild variant inom det estetiska området, musik (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+EKMUSVE0N,"Ekonomiprogrammet; Särskild variant inom det estetiska området, musik (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ES,Estetiska programmet,Högskoleförberedande program
+ES000000I,Estetiska programmet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ES000000N,Estetiska programmet (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESANIV0R,"Estetiska programmet, Särskild variant, animation (riksrekryterande)",Högskoleförberedande program
+ESANIV0RI,"Estetiska programmet; Särskild variant, animation (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESANIV0RN,"Estetiska programmet; Särskild variant, animation (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESANIVS,"Estetiska programmet; Särskild variant, animation (spetsutbildning)",Högskoleförberedande program
+ESANIVS0I,"Estetiska programmet; Särskild variant, animation (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESANIVS0N,"Estetiska programmet; Särskild variant, animation (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESBIL,"Estetiska programmet, Bild och formgivning",Högskoleförberedande program
+ESBIL000I,Estetiska programmet; Bild och formgivning (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESBIL000N,Estetiska programmet; Bild och formgivning (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESBIL0S,Estetiska programmet; Bild och formgivning (spetsutbildning),Högskoleförberedande program
+ESBIL0S0I,Estetiska programmet; Bild och formgivning (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESBIL0S0N,Estetiska programmet; Bild och formgivning (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESBILV,"Estetiska programmet, Bild och formgivning, särskild variant",Högskoleförberedande program
+ESBILV00I,"Estetiska programmet; Bild och formgivning, särskild variant (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESBILV00N,"Estetiska programmet; Bild och formgivning, särskild variant (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESBILVS,"Estetiska programmet, Bild och formgivning, särskild variant (spetsutbildning)",Högskoleförberedande program
+ESBILVS0I,"Estetiska programmet; Bild och formgivning, särskild variant (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESBILVS0N,"Estetiska programmet; Bild och formgivning, särskild variant (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESCIRV0R,"Estetiska programmet, Särskild variant, cirkus (riksrekryterande)",Högskoleförberedande program
+ESCIRV0RI,"Estetiska programmet; Särskild variant, cirkus (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESCIRV0RN,"Estetiska programmet; Särskild variant, cirkus (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESCIRVE,"Estetiska programmet; Särskild variant inom det estetiska området, cirkus",Högskoleförberedande program
+ESCIRVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, cirkus (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESCIRVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, cirkus (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESCIRVS,"Estetiska programmet, Särskild variant, cirkus (spetsutbildning)",Högskoleförberedande program
+ESCIRVS0I,"Estetiska programmet; Särskild variant, cirkus (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESCIRVS0N,"Estetiska programmet; Särskild variant, cirkus (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESDAN,"Estetiska programmet, Dans",Högskoleförberedande program
+ESDAN000I,Estetiska programmet; Dans (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESDAN000N,Estetiska programmet; Dans (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESDAN0S,"Estetiska programmet, Dans, (spetsutbildning)",Högskoleförberedande program
+ESDAN0S0I,"Estetiska programmet; Dans, (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESDAN0S0N,"Estetiska programmet; Dans, (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESDANVS,"Estetiska programmet, Dans, särskild variant (spetsutbildning)",Högskoleförberedande program
+ESDANVS0I,"Estetiska programmet; Dans, särskild variant (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESDANVS0N,"Estetiska programmet; Dans, särskild variant (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESDESV,"Estetiska programmet; Särskild variant, design",Högskoleförberedande program
+ESDESV00I,"Estetiska programmet; Särskild variant, design (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESDESV00N,"Estetiska programmet; Särskild variant, design (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESDESVE,"Estetiska programmet, Särskild variant inom det estetiska området, design",Högskoleförberedande program
+ESDESVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, design (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESDESVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, design (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESEST,"Estetiska programmet, Estetik och media",Högskoleförberedande program
+ESEST000I,Estetiska programmet; Estetik och media (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESEST000N,Estetiska programmet; Estetik och media (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESEST0S,Estetiska programmet; Estetik och media (spetsutbildning),Högskoleförberedande program
+ESEST0S0I,Estetiska programmet; Estetik och media (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESEST0S0N,Estetiska programmet; Estetik och media (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESESTVS,"Estetiska programmet, Estetik och media, särskild variant (spetsutbildning)",Högskoleförberedande program
+ESESTVS0I,"Estetiska programmet; Estetik och media, särskild variant (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESESTVS0N,"Estetiska programmet; Estetik och media, särskild variant (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESETIVS,"Estetiska programmet, Särskild variant, etisk modedesign (spetsutbildning)",Högskoleförberedande program
+ESETIVS0I,"Estetiska programmet; Särskild variant, etisk modedesign (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESETIVS0N,"Estetiska programmet; Särskild variant, etisk modedesign (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESEXPVE,"Estetiska programmet, Särskild variant inom det estetiska området, exponering",Högskoleförberedande program
+ESEXPVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, exponering (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESEXPVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, exponering (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESFILVE,"Estetiska programmet, Särskild variant inom det estetiska området, film",Högskoleförberedande program
+ESFILVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, film (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESFILVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, film (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESFOTVE,"Estetiska programmet, Särskild variant inom det estetiska området, foto",Högskoleförberedande program
+ESFOTVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, foto (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESFOTVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, foto (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESLJUVE,"Estetiska programmet, Särskild variant inom det estetiska området, ljud",Högskoleförberedande program
+ESLJUVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, ljud (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESLJUVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, ljud (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESMODVE,"Estetiska programmet; Särskild variant inom det estetiska området, mode och design",Högskoleförberedande program
+ESMODVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, mode och design (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESMODVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, mode och design (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESMUS,"Estetiska programmet, Musik",Högskoleförberedande program
+ESMUS000I,Estetiska programmet; Musik (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESMUS000N,Estetiska programmet; Musik (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESMUS0S,"Estetiska programmet, Musik, (spetsutbildning)",Högskoleförberedande program
+ESMUS0S0I,"Estetiska programmet; Musik, (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESMUS0S0N,"Estetiska programmet; Musik, (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESMUSVS,"Estetiska programmet, Musik, särskild variant (spetsutbildning)",Högskoleförberedande program
+ESMUSVS0I,"Estetiska programmet; Musik, särskild variant (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESMUSVS0N,"Estetiska programmet; Musik, särskild variant (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESSCEVE,"Estetiska programmet; Särskild variant inom det estetiska området, scenkonst",Högskoleförberedande program
+ESSCEVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, scenkonst (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESSCEVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, scenkonst (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESSERVE,"Estetiska programmet, Särskild variant inom det estetiska området, serieteckning",Högskoleförberedande program
+ESSERVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, serieteckning (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESSERVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, serieteckning (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESSPEVS,"Estetiska programmet, Särskild variant, spelgrafik (spetsutbildning)",Högskoleförberedande program
+ESSPEVS0I,"Estetiska programmet; Särskild variant, spelgrafik (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESSPEVS0N,"Estetiska programmet; Särskild variant, spelgrafik (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESSPLVE,"Estetiska programmet, Särskild variant inom det estetiska området, spelutveckling",Högskoleförberedande program
+ESSPLVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, spelutveckling (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESSPLVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, spelutveckling (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESTEA,"Estetiska programmet, Teater",Högskoleförberedande program
+ESTEA000I,Estetiska programmet; Teater (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESTEA000N,Estetiska programmet; Teater (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESTEA0S,Estetiska programmet; Teater (spetsutbildning),Högskoleförberedande program
+ESTEA0S0I,Estetiska programmet; Teater (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+ESTEA0S0N,Estetiska programmet; Teater (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+ESTEAVS,"Estetiska programmet, Teater, särskild variant (spetsutbildning)",Högskoleförberedande program
+ESTEAVS0I,"Estetiska programmet; Teater, särskild variant (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESTEAVS0N,"Estetiska programmet; Teater, särskild variant (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESWALV,"Estetiska programmet, Särskild variant, Waldorf",Högskoleförberedande program
+ESWALV00I,"Estetiska programmet; Särskild variant, Waldorf (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESWALV00N,"Estetiska programmet; Särskild variant, Waldorf (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESWALV0R,"Estetiska programmet, Särskild variant, Waldorf (riksrekryterande)",Högskoleförberedande program
+ESWALV0RI,"Estetiska programmet; Särskild variant, Waldorf (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESWALV0RN,"Estetiska programmet; Särskild variant, Waldorf (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+ESWALVE,"Estetiska programmet; Särskild variant inom det estetiska området, Waldorf",Högskoleförberedande program
+ESWALVE0I,"Estetiska programmet; Särskild variant inom det estetiska området, Waldorf (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+ESWALVE0N,"Estetiska programmet; Särskild variant inom det estetiska området, Waldorf (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+FT,Fordons- och transportprogrammet,Yrkesprogram
+FT000000I,Fordons- och transportprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FT000000N,Fordons- och transportprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTGOD,"Fordons- och transportprogrammet, Godshantering",Yrkesprogram
+FTGOD000I,Fordons- och transportprogrammet; Godshantering (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTGOD000N,Fordons- och transportprogrammet; Godshantering (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTGOD0A,"Fordons- och transportprogrammet; Godshantering, anställd lärling",Yrkesprogram
+FTGOD0A0I,"Fordons- och transportprogrammet; Godshantering, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTGOD0A0N,"Fordons- och transportprogrammet; Godshantering, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTGOD0L,"Fordons- och transportprogrammet, Godshantering, lärling",Yrkesprogram
+FTGOD0L0I,"Fordons- och transportprogrammet; Godshantering, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTGOD0L0N,"Fordons- och transportprogrammet; Godshantering, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTKAR,"Fordons- och transportprogrammet, Karosseri och lackering",Yrkesprogram
+FTKAR000I,Fordons- och transportprogrammet; Karosseri och lackering (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTKAR000N,Fordons- och transportprogrammet; Karosseri och lackering (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTKAR0A,"Fordons- och transportprogrammet; Karosseri och lackering, anställd lärling",Yrkesprogram
+FTKAR0A0I,"Fordons- och transportprogrammet; Karosseri och lackering, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTKAR0A0N,"Fordons- och transportprogrammet; Karosseri och lackering, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTKAR0L,"Fordons- och transportprogrammet, Karosseri och lackering, lärling",Yrkesprogram
+FTKAR0L0I,"Fordons- och transportprogrammet; Karosseri och lackering, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTKAR0L0N,"Fordons- och transportprogrammet; Karosseri och lackering, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTLAS,"Fordons- och transportprogrammet, Lastbil och mobila maskiner",Yrkesprogram
+FTLAS000I,Fordons- och transportprogrammet; Lastbil och mobila maskiner (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTLAS000N,Fordons- och transportprogrammet; Lastbil och mobila maskiner (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTLAS00R,"Fordons- och transportprogrammet, Lastbil och mobila maskiner (riksrekryterande)",Yrkesprogram
+FTLAS00RI,Fordons- och transportprogrammet; Lastbil och mobila maskiner (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTLAS00RN,Fordons- och transportprogrammet; Lastbil och mobila maskiner (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTLAS0A,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling",Yrkesprogram
+FTLAS0A0I,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTLAS0A0N,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTLAS0AR,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling (riksrekryterande)",Yrkesprogram
+FTLAS0ARI,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTLAS0ARN,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTLAS0L,"Fordons- och transportprogrammet, Lastbil och mobila maskiner, lärling",Yrkesprogram
+FTLAS0L0I,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTLAS0L0N,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTLAS0LR,"Fordons- och transportprogrammet, Lastbil och mobila maskiner, lärling (riksrekryterande)",Yrkesprogram
+FTLAS0LRI,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTLAS0LRN,"Fordons- och transportprogrammet; Lastbil och mobila maskiner, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPER,"Fordons- och transportprogrammet, Personbil",Yrkesprogram
+FTPER000I,Fordons- och transportprogrammet; Personbil (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTPER000N,Fordons- och transportprogrammet; Personbil (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTPER00R,"Fordons- och transportprogrammet, Personbil (riksrekryterande)",Yrkesprogram
+FTPER00RI,Fordons- och transportprogrammet; Personbil (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTPER00RN,Fordons- och transportprogrammet; Personbil (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTPER0A,"Fordons- och transportprogrammet; Personbil, anställd lärling",Yrkesprogram
+FTPER0A0I,"Fordons- och transportprogrammet; Personbil, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPER0A0N,"Fordons- och transportprogrammet; Personbil, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPER0AR,"Fordons- och transportprogrammet; Personbil, anställd lärling (riksrekryterande)",Yrkesprogram
+FTPER0ARI,"Fordons- och transportprogrammet; Personbil, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPER0ARN,"Fordons- och transportprogrammet; Personbil, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPER0L,"Fordons- och transportprogrammet, Personbil, lärling",Yrkesprogram
+FTPER0L0I,"Fordons- och transportprogrammet; Personbil, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPER0L0N,"Fordons- och transportprogrammet; Personbil, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPER0LR,"Fordons- och transportprogrammet, Personbil, lärling (riksrekryterande)",Yrkesprogram
+FTPER0LRI,"Fordons- och transportprogrammet; Personbil, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPER0LRN,"Fordons- och transportprogrammet; Personbil, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPERV0R,"Fordons- och transportprogrammet; Personbil, särskild variant (riksrekryterande)",Yrkesprogram
+FTPERV0RI,"Fordons- och transportprogrammet; Personbil, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPERV0RN,"Fordons- och transportprogrammet; Personbil, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPERVAR,"Fordons- och transportprogrammet; Personbil, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+FTPERVARI,"Fordons- och transportprogrammet; Personbil, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPERVARN,"Fordons- och transportprogrammet; Personbil, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTPERVLR,"Fordons- och transportprogrammet; Personbil, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+FTPERVLRI,"Fordons- och transportprogrammet; Personbil, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTPERVLRN,"Fordons- och transportprogrammet; Personbil, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTSNOV0R,"Fordons- och transportprogrammet, Särskild variant, snöfordon (riksrekryterande)",Yrkesprogram
+FTSNOV0RI,"Fordons- och transportprogrammet; Särskild variant, snöfordon (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTSNOV0RN,"Fordons- och transportprogrammet; Särskild variant, snöfordon (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTSNOVAR,"Fordons- och transportprogrammet; Särskild variant, snöfordon, anställd lärling (riksrekryterande)",Yrkesprogram
+FTSNOVARI,"Fordons- och transportprogrammet; Särskild variant, snöfordon, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTSNOVARN,"Fordons- och transportprogrammet; Särskild variant, snöfordon, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTSNOVLR,"Fordons- och transportprogrammet, Särskild variant, snöfordon, lärling (riksrekryterande)",Yrkesprogram
+FTSNOVLRI,"Fordons- och transportprogrammet; Särskild variant, snöfordon, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTSNOVLRN,"Fordons- och transportprogrammet; Särskild variant, snöfordon, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTTRA,"Fordons- och transportprogrammet, Transport",Yrkesprogram
+FTTRA000I,Fordons- och transportprogrammet; Transport (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTTRA000N,Fordons- och transportprogrammet; Transport (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTTRA00R,"Fordons- och transportprogrammet, Transport (riksrekryterande)",Yrkesprogram
+FTTRA00RI,Fordons- och transportprogrammet; Transport (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+FTTRA00RN,Fordons- och transportprogrammet; Transport (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+FTTRA0A,"Fordons- och transportprogrammet; Transport, anställd lärling",Yrkesprogram
+FTTRA0A0I,"Fordons- och transportprogrammet; Transport, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTTRA0A0N,"Fordons- och transportprogrammet; Transport, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTTRA0AR,"Fordons- och transportprogrammet; Transport, nställd lärling (riksrekryterande)",Yrkesprogram
+FTTRA0ARI,"Fordons- och transportprogrammet; Transport, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTTRA0ARN,"Fordons- och transportprogrammet; Transport, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTTRA0L,"Fordons- och transportprogrammet, Transport, lärling",Yrkesprogram
+FTTRA0L0I,"Fordons- och transportprogrammet; Transport, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTTRA0L0N,"Fordons- och transportprogrammet; Transport, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FTTRA0LR,"Fordons- och transportprogrammet, Transport, lärling (riksrekryterande)",Yrkesprogram
+FTTRA0LRI,"Fordons- och transportprogrammet; Transport, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+FTTRA0LRN,"Fordons- och transportprogrammet; Transport, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+FX,Flygteknikutbildningen,Riksrekryterande yrkesutbildning
+FX000000I,Flygteknikutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+FX000000N,Flygteknikutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+FXFLY,Flygteknikutbildningen; Flygplan,Riksrekryterande yrkesutbildning
+FXFLY000I,Flygteknikutbildningen; Flygplan (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+FXFLY000N,Flygteknikutbildningen; Flygplan (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+FXFLY0A,"Flygteknikutbildningen; Flygplan, anställd lärling",Riksrekryterande yrkesutbildning
+FXFLY0A0I,"Flygteknikutbildningen; Flygplan, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+FXFLY0A0N,"Flygteknikutbildningen; Flygplan, anställd lärlinglärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+FXFLY0L,"Flygteknikutbildningen; Flygplan, lärling",Riksrekryterande yrkesutbildning
+FXFLY0L0I,"Flygteknikutbildningen; Flygplan, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+FXFLY0L0N,"Flygteknikutbildningen; Flygplan, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+FXHEL,Flygteknikutbildningen; Helikopter,Riksrekryterande yrkesutbildning
+FXHEL000I,Flygteknikutbildningen; Helikopter (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+FXHEL000N,Flygteknikutbildningen; Helikopter (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+FXHEL0A,"Flygteknikutbildningen; Helikopter, anställd lärling",Riksrekryterande yrkesutbildning
+FXHEL0A0I,"Flygteknikutbildningen; Helikopter, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+FXHEL0A0N,"Flygteknikutbildningen; Helikopter, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+FXHEL0L,"Flygteknikutbildningen; Helikopter, lärling",Riksrekryterande yrkesutbildning
+FXHEL0L0I,"Flygteknikutbildningen; Helikopter, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+FXHEL0L0N,"Flygteknikutbildningen; Helikopter, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+HA,Handels- och administrationsprogrammet,Yrkesprogram
+HA000000I,Handels- och administrationsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HA000000N,Handels- och administrationsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HAADM,"Handels- och administrationsprogrammet, Administrativ service",Yrkesprogram
+HAADM000I,Handels- och administrationsprogrammet; Administrativ service (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HAADM000N,Handels- och administrationsprogrammet; Administrativ service (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HAADM0A,"Handels- och administrationsprogrammet; Administrativ service, anställd lärling",Yrkesprogram
+HAADM0A0I,"Handels- och administrationsprogrammet; Administrativ service, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HAADM0A0N,"Handels- och administrationsprogrammet; Administrativ service, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HAADM0L,"Handels- och administrationsprogrammet, Administrativ service, lärling",Yrkesprogram
+HAADM0L0I,"Handels- och administrationsprogrammet; Administrativ service, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HAADM0L0N,"Handels- och administrationsprogrammet; Administrativ service, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HAHAN,"Handels- och administrationsprogrammet, Handel och service",Yrkesprogram
+HAHAN000I,Handels- och administrationsprogrammet; Handel och service (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HAHAN000N,Handels- och administrationsprogrammet; Handel och service (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HAHAN0A,"Handels- och administrationsprogrammet; Handel och service, anställd lärling",Yrkesprogram
+HAHAN0A0I,"Handels- och administrationsprogrammet; Handel och service, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HAHAN0A0N,"Handels- och administrationsprogrammet; Handel och service, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HAHAN0L,"Handels- och administrationsprogrammet, Handel och service, lärling",Yrkesprogram
+HAHAN0L0I,"Handels- och administrationsprogrammet; Handel och service, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HAHAN0L0N,"Handels- och administrationsprogrammet; Handel och service, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HT,Hotell- och turismprogrammet,Yrkesprogram
+HT000000I,Hotell- och turismprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HT000000N,Hotell- och turismprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HTHOT,"Hotell- och turismprogrammet, Hotell och konferens",Yrkesprogram
+HTHOT000I,Hotell- och turismprogrammet; Hotell och konferens (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HTHOT000N,Hotell- och turismprogrammet; Hotell och konferens (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HTHOT0A,"Hotell- och turismprogrammet; Hotell och konferens, anställd lärling",Yrkesprogram
+HTHOT0A0I,"Hotell- och turismprogrammet; Hotell och konferens, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTHOT0A0N,"Hotell- och turismprogrammet; Hotell och konferens, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTHOT0L,"Hotell- och turismprogrammet, Hotell och konferens, lärling",Yrkesprogram
+HTHOT0L0I,"Hotell- och turismprogrammet; Hotell och konferens, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTHOT0L0N,"Hotell- och turismprogrammet; Hotell och konferens, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTTUR,"Hotell- och turismprogrammet, Turism och resor",Yrkesprogram
+HTTUR000I,Hotell- och turismprogrammet; Turism och resor (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HTTUR000N,Hotell- och turismprogrammet; Turism och resor (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HTTUR0A,"Hotell- och turismprogrammet; Turism och resor, anställd lärling",Yrkesprogram
+HTTUR0A0I,"Hotell- och turismprogrammet; Turism och resor, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTTUR0A0N,"Hotell- och turismprogrammet; Turism och resor, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTTUR0L,"Hotell- och turismprogrammet, Turism och resor, lärling",Yrkesprogram
+HTTUR0L0I,"Hotell- och turismprogrammet; Turism och resor, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTTUR0L0N,"Hotell- och turismprogrammet; Turism och resor, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTTURV0R,"Hotell- och turismprogrammet; Turism och resor, särskild variant (riksrekryterande)",Yrkesprogram
+HTTURV0RI,"Hotell- och turismprogrammet; Turism och resor, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTTURV0RN,"Hotell- och turismprogrammet; Turism och resor, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTTURVAR,"Hotell- och turismprogrammet; Turism och resor, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+HTTURVARI,"Hotell- och turismprogrammet; Turism och resor, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTTURVARN,"Hotell- och turismprogrammet; Turism och resor, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HTTURVLR,"Hotell- och turismprogrammet; Turism och resor, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+HTTURVLRI,"Hotell- och turismprogrammet; Turism och resor, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HTTURVLRN,"Hotell- och turismprogrammet; Turism och resor, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HU,Humanistiska programmet,Högskoleförberedande program
+HU000000I,Humanistiska programmet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+HU000000N,Humanistiska programmet (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+HUDANVE,"Humanistiska programmet; Särskild variant inom det estetiska området, dans",Högskoleförberedande program
+HUDANVE0I,"Humanistiska programmet; Särskild variant inom det estetiska området, dans (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+HUDANVE0N,"Humanistiska programmet; Särskild variant inom det estetiska området, dans (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+HUKUL,"Humanistiska programmet, Kultur",Högskoleförberedande program
+HUKUL000I,Humanistiska programmet; Kultur (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+HUKUL000N,Humanistiska programmet; Kultur (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+HUKULVE,"Humanistiska programmet, Kultur, särskild variant inom det estetiska området",Högskoleförberedande program
+HUKULVE0I,"Humanistiska programmet; Kultur, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+HUKULVE0N,"Humanistiska programmet; Kultur, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+HULINVS,"Humanistiska programmet, Särskild variant, Lingua (spetsutbildning)",Högskoleförberedande program
+HULINVS0I,"Humanistiska programmet; Särskild variant, Lingua (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+HULINVS0N,"Humanistiska programmet; Särskild variant, Lingua (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+HUSPR,"Humanistiska programmet, Språk",Högskoleförberedande program
+HUSPR000I,Humanistiska programmet; Språk (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+HUSPR000N,Humanistiska programmet; Språk (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+HUSPR0S,"Humanistiska programmet, Språk (spetsutbildning)",Högskoleförberedande program
+HUSPR0S0I,Humanistiska programmet; Språk (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+HUSPR0S0N,Humanistiska programmet; Språk (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+HUSPRVE,"Humanistiska programmet, Språk, särskild variant inom det estetiska området",Högskoleförberedande program
+HUSPRVE0I,"Humanistiska programmet; Språk, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+HUSPRVE0N,"Humanistiska programmet; Språk, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+HV,Hantverksprogrammet,Yrkesprogram
+HV000000I,Hantverksprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HV000000N,Hantverksprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVBOS,Hantverksprogrammet; Övriga hantverk; bössmakare,Yrkesprogram
+HVBOS000I,Hantverksprogrammet; Övriga hantverk; bössmakare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVBOS000N,Hantverksprogrammet; Övriga hantverk; bössmakare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVBOS0A,"Hantverksprogrammet; Övriga hantverk; bössmakare, anställd lärling",Yrkesprogram
+HVBOS0A0I,"Hantverksprogrammet; Övriga hantverk; bössmakare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVBOS0A0N,"Hantverksprogrammet; Övriga hantverk; bössmakare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVBOS0L,"Hantverksprogrammet; Övriga hantverk; bössmakare, lärling",Yrkesprogram
+HVBOS0L0I,"Hantverksprogrammet; Övriga hantverk; bössmakare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVBOS0L0N,"Hantverksprogrammet; Övriga hantverk; bössmakare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFIN,"Hantverksprogrammet, Finsnickeri",Yrkesprogram
+HVFIN000I,Hantverksprogrammet; Finsnickeri (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVFIN000N,Hantverksprogrammet; Finsnickeri (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVFIN00R,"Hantverksprogrammet, Finsnickeri (riksrekryterande)",Yrkesprogram
+HVFIN00RI,Hantverksprogrammet; Finsnickeri (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVFIN00RN,Hantverksprogrammet; Finsnickeri (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVFIN0A,"Hantverksprogrammet; Finsnickeri, anställd lärling",Yrkesprogram
+HVFIN0A0I,"Hantverksprogrammet; Finsnickeri, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFIN0A0N,"Hantverksprogrammet; Finsnickeri, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFIN0AR,"Hantverksprogrammet; Finsnickeri, anställd lärling (riksrekryterande)",Yrkesprogram
+HVFIN0ARI,"Hantverksprogrammet; Finsnickeri, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFIN0ARN,"Hantverksprogrammet; Finsnickeri, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFIN0L,"Hantverksprogrammet, Finsnickeri, lärling",Yrkesprogram
+HVFIN0L0I,"Hantverksprogrammet; Finsnickeri, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFIN0L0N,"Hantverksprogrammet; Finsnickeri, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFIN0LR,"Hantverksprogrammet, Finsnickeri, lärling (riksrekryterande)",Yrkesprogram
+HVFIN0LRI,"Hantverksprogrammet; Finsnickeri, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFIN0LRN,"Hantverksprogrammet; Finsnickeri, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFLO,"Hantverksprogrammet, Florist",Yrkesprogram
+HVFLO000I,Hantverksprogrammet; Florist (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVFLO000N,Hantverksprogrammet; Florist (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVFLO0A,"Hantverksprogrammet; Florist, anställd lärling",Yrkesprogram
+HVFLO0A0I,"Hantverksprogrammet; Florist, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFLO0A0N,"Hantverksprogrammet; Florist, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFLO0L,"Hantverksprogrammet, Florist, lärling",Yrkesprogram
+HVFLO0L0I,"Hantverksprogrammet; Florist, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFLO0L0N,"Hantverksprogrammet; Florist, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFRI,"Hantverksprogrammet, Frisör",Yrkesprogram
+HVFRI000I,Hantverksprogrammet; Frisör (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVFRI000N,Hantverksprogrammet; Frisör (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVFRI0A,"Hantverksprogrammet; Frisör, anställd lärling",Yrkesprogram
+HVFRI0A0I,"Hantverksprogrammet; Frisör, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFRI0A0N,"Hantverksprogrammet; Frisör, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVFRI0L,"Hantverksprogrammet, Frisör, lärling",Yrkesprogram
+HVFRI0L0I,"Hantverksprogrammet; Frisör, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVFRI0L0N,"Hantverksprogrammet; Frisör, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGLA,"Hantverksprogrammet, Övriga hantverk, glasblåsare",Yrkesprogram
+HVGLA000I,Hantverksprogrammet; Övriga hantverk; glasblåsare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVGLA000N,Hantverksprogrammet; Övriga hantverk; glasblåsare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVGLA00R,"Hantverksprogrammet, Övriga hantverk, glasblåsare (riksrekryterande)",Yrkesprogram
+HVGLA00RI,Hantverksprogrammet; Övriga hantverk; glasblåsare (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVGLA00RN,Hantverksprogrammet; Övriga hantverk; glasblåsare (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVGLA0A,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling",Yrkesprogram
+HVGLA0A0I,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGLA0A0N,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGLA0ARI,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGLA0ARN,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGLA0L,"Hantverksprogrammet, Övriga hantverk, glasblåsare, lärling",Yrkesprogram
+HVGLA0L0I,"Hantverksprogrammet; Övriga hantverk; glasblåsare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGLA0L0N,"Hantverksprogrammet; Övriga hantverk; glasblåsare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGLA0LAR,"Hantverksprogrammet; Övriga hantverk; glasblåsare, anställd lärling (riksrekryterande)",Yrkesprogram
+HVGLA0LR,"Hantverksprogrammet, Övriga hantverk, glasblåsare, lärling (riksrekryterande)",Yrkesprogram
+HVGLA0LRI,"Hantverksprogrammet; Övriga hantverk; glasblåsare, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGLA0LRN,"Hantverksprogrammet; Övriga hantverk; glasblåsare, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGUL,"Hantverksprogrammet, Övriga hantverk, guldsmed",Yrkesprogram
+HVGUL000I,Hantverksprogrammet; Övriga hantverk; guldsmed (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVGUL000N,Hantverksprogrammet; Övriga hantverk; guldsmed (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVGUL00R,"Hantverksprogrammet, Övriga hantverk, guldsmed (riksrekryterande)",Yrkesprogram
+HVGUL00RI,Hantverksprogrammet; Övriga hantverk; guldsmed (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVGUL00RN,Hantverksprogrammet; Övriga hantverk; guldsmed (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVGUL0A,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling",Yrkesprogram
+HVGUL0A0I,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGUL0A0N,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGUL0AR,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling (riksrekryterande)",Yrkesprogram
+HVGUL0ARI,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGUL0ARN,"Hantverksprogrammet; Övriga hantverk; guldsmed, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGUL0L,"Hantverksprogrammet, Övriga hantverk, guldsmed, lärling",Yrkesprogram
+HVGUL0L0I,"Hantverksprogrammet; Övriga hantverk; guldsmed, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGUL0L0N,"Hantverksprogrammet; Övriga hantverk; guldsmed, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVGUL0LR,"Hantverksprogrammet, Övriga hantverk, guldsmed, lärling (riksrekryterande)",Yrkesprogram
+HVGUL0LRI,"Hantverksprogrammet; Övriga hantverk; guldsmed, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVGUL0LRN,"Hantverksprogrammet; Övriga hantverk; guldsmed, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVHOV,Hantverksprogrammet; Övriga hantverk; hovslagare,Yrkesprogram
+HVHOV0A,"Hantverksprogrammet; Övriga hantverk; hovslagare, anställd lärling",Yrkesprogram
+HVHOV0L,"Hantverksprogrammet; Övriga hantverk; hovslagare, lärling",Yrkesprogram
+HVHUD,"Hantverksprogrammet, Övriga hantverk, hudvård",Yrkesprogram
+HVHUD000I,Hantverksprogrammet; Övriga hantverk; hudvård (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVHUD000N,Hantverksprogrammet; Övriga hantverk; hudvård (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVHUD0A,"Hantverksprogrammet; Övriga hantverk; hudvård, anställd lärling",Yrkesprogram
+HVHUD0A0I,"Hantverksprogrammet; Övriga hantverk; hudvård, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVHUD0A0N,"Hantverksprogrammet; Övriga hantverk; hudvård, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVHUD0L,"Hantverksprogrammet, Övriga hantverk, hudvård, lärling",Yrkesprogram
+HVHUD0L0I,"Hantverksprogrammet; Övriga hantverk; hudvård, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVHUD0L0N,"Hantverksprogrammet; Övriga hantverk; hudvård, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVJUV,"Hantverksprogrammet, Övriga hantverk, juvelsfattare",Yrkesprogram
+HVJUV000I,Hantverksprogrammet; Övriga hantverk; juvelfattare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVJUV000N,Hantverksprogrammet; Övriga hantverk; juvelfattare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVJUV0A,"Hantverksprogrammet; Övriga hantverk; juvelfattare, anställd lärling",Yrkesprogram
+HVJUV0A0I,"Hantverksprogrammet; Övriga hantverk; juvelfattare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVJUV0A0N,"Hantverksprogrammet; Övriga hantverk; juvelfattare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVJUV0L,"Hantverksprogrammet, Övriga hantverk, juvelsfattare, lärling",Yrkesprogram
+HVJUV0L0I,"Hantverksprogrammet; Övriga hantverk; juvelfattare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVJUV0L0N,"Hantverksprogrammet; Övriga hantverk; juvelfattare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVKAK,"Hantverksprogrammet, Övriga hantverk, kakelugnsmakare",Yrkesprogram
+HVKAK000I,Hantverksprogrammet; Övriga hantverk; kakelugnsmakare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVKAK000N,Hantverksprogrammet; Övriga hantverk; kakelugnsmakare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVKAK0A,"Hantverksprogrammet; Övriga hantverk; kakelugnsmakare, anställd lärling",Yrkesprogram
+HVKAK0A0I,"Hantverksprogrammet; Övriga hantverk; kakelugnsmakare, anställd lärlinglärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVKAK0A0N,"Hantverksprogrammet; Övriga hantverk; kakelugnsmakare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVKAK0L,"Hantverksprogrammet, Övriga hantverk, kakelugnsmakare, lärling",Yrkesprogram
+HVKAK0L0I,"Hantverksprogrammet; Övriga hantverk; kakelugnsmakare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVKAK0L0N,"Hantverksprogrammet; Övriga hantverk; kakelugnsmakare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVKER,"Hantverksprogrammet, Övriga hantverk, keramiker",Yrkesprogram
+HVKER000I,Hantverksprogrammet; Övriga hantverk; keramiker (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVKER000N,Hantverksprogrammet; Övriga hantverk; keramiker (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVKER0A,"Hantverksprogrammet; Övriga hantverk; keramiker, anställd lärling",Yrkesprogram
+HVKER0A0I,"Hantverksprogrammet; Övriga hantverk; keramiker, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVKER0A0N,"Hantverksprogrammet; Övriga hantverk; keramiker, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVKER0L,"Hantverksprogrammet, Övriga hantverk, keramiker, lärling",Yrkesprogram
+HVKER0L0I,"Hantverksprogrammet; Övriga hantverk; keramiker, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVKER0L0N,"Hantverksprogrammet; Övriga hantverk; keramiker, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVLAS,"Hantverksprogrammet, Övriga hantverk, låssmed",Yrkesprogram
+HVLAS000I,Hantverksprogrammet; Övriga hantverk; låssmed (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVLAS000N,Hantverksprogrammet; Övriga hantverk; låssmed (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVLAS0A,"Hantverksprogrammet; Övriga hantverk; låssmed, anställd lärling",Yrkesprogram
+HVLAS0A0I,"Hantverksprogrammet; Övriga hantverk; låssmed, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVLAS0A0N,"Hantverksprogrammet; Övriga hantverk; låssmed, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVLAS0L,"Hantverksprogrammet, Övriga hantverk, låssmed, lärling",Yrkesprogram
+HVLAS0L0I,"Hantverksprogrammet; Övriga hantverk; låssmed, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVLAS0L0N,"Hantverksprogrammet; Övriga hantverk; låssmed, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSAD,"Hantverksprogrammet, Övriga hantverk, sadelmakare",Yrkesprogram
+HVSAD000I,Hantverksprogrammet; Övriga hantverk; sadelmakare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSAD000N,Hantverksprogrammet; Övriga hantverk; sadelmakare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSAD0A,"Hantverksprogrammet; Övriga hantverk; sadelmakare, anställd lärling",Yrkesprogram
+HVSAD0A0I,"Hantverksprogrammet; Övriga hantverk; sadelmakare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSAD0A0N,"Hantverksprogrammet; Övriga hantverk; sadelmakare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSAD0L,"Hantverksprogrammet, Övriga hantverk, sadelmakare, lärling",Yrkesprogram
+HVSAD0L0I,"Hantverksprogrammet; Övriga hantverk; sadelmakare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSAD0L0N,"Hantverksprogrammet; Övriga hantverk; sadelmakare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSIL,"Hantverksprogrammet, Övriga hantverk, silversmed",Yrkesprogram
+HVSIL000I,Hantverksprogrammet; Övriga hantverk; silversmed (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSIL000N,Hantverksprogrammet; Övriga hantverk; silversmed (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSIL0A,"Hantverksprogrammet; Övriga hantverk; silversmed, anställd lärling",Yrkesprogram
+HVSIL0A0I,"Hantverksprogrammet; Övriga hantverk; silversmed, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSIL0A0N,"Hantverksprogrammet; Övriga hantverk; silversmed, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSIL0L,"Hantverksprogrammet, Övriga hantverk, silversmed, lärling",Yrkesprogram
+HVSIL0L0I,"Hantverksprogrammet; Övriga hantverk; silversmed, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSIL0L0N,"Hantverksprogrammet; Övriga hantverk; silversmed, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSKO,"Hantverksprogrammet, Övriga hantverk, skomakare",Yrkesprogram
+HVSKO000I,Hantverksprogrammet; Övriga hantverk; skomakare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSKO000N,Hantverksprogrammet; Övriga hantverk; skomakare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSKO0A,"Hantverksprogrammet; Övriga hantverk; skomakare, anställd lärling",Yrkesprogram
+HVSKO0A0I,"Hantverksprogrammet; Övriga hantverk; skomakare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSKO0A0N,"Hantverksprogrammet; Övriga hantverk; skomakare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSKO0L,"Hantverksprogrammet, Övriga hantverk, skomakare, lärling",Yrkesprogram
+HVSKO0L0I,"Hantverksprogrammet; Övriga hantverk; skomakare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSKO0L0N,"Hantverksprogrammet; Övriga hantverk; skomakare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSME,"Hantverksprogrammet, Övriga hantverk, smed",Yrkesprogram
+HVSME000I,Hantverksprogrammet; Övriga hantverk; smed (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSME000N,Hantverksprogrammet; Övriga hantverk; smed (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSME0A,"Hantverksprogrammet; Övriga hantverk; smed, anställd lärling",Yrkesprogram
+HVSME0A0I,"Hantverksprogrammet; Övriga hantverk; smed, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSME0A0N,"Hantverksprogrammet; Övriga hantverk; smed, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSME0L,"Hantverksprogrammet, Övriga hantverk, smed, lärling",Yrkesprogram
+HVSME0L0I,"Hantverksprogrammet; Övriga hantverk; smed, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSME0L0N,"Hantverksprogrammet; Övriga hantverk; smed, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSOT,"Hantverksprogrammet, Övriga hantverk, sotare",Yrkesprogram
+HVSOT000I,Hantverksprogrammet; Övriga hantverk; sotare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSOT000N,Hantverksprogrammet; Övriga hantverk; sotare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSOT0A,"Hantverksprogrammet; Övriga hantverk; sotare, anställd lärling",Yrkesprogram
+HVSOT0A0I,"Hantverksprogrammet; Övriga hantverk; sotare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSOT0A0N,"Hantverksprogrammet; Övriga hantverk; sotare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSOT0L,"Hantverksprogrammet, Övriga hantverk, sotare, lärling",Yrkesprogram
+HVSOT0L0I,"Hantverksprogrammet; Övriga hantverk; sotare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSOT0L0N,"Hantverksprogrammet; Övriga hantverk; sotare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSTY,"Hantverksprogrammet, Övriga hantverk, hår- och makeupstylist",Yrkesprogram
+HVSTY000I,Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVSTY000N,Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVSTY0A,"Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist, anställd lärling",Yrkesprogram
+HVSTY0A0I,"Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSTY0A0N,"Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVSTY0L,"Hantverksprogrammet, Övriga hantverk, hår- och makeupstylist, lärling",Yrkesprogram
+HVSTY0L0I,"Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVSTY0L0N,"Hantverksprogrammet; Övriga hantverk; hår- och makeupstylist, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTAP,"Hantverksprogrammet, Övriga hantverk, tapetserare",Yrkesprogram
+HVTAP000I,Hantverksprogrammet; Övriga hantverk; tapetserare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVTAP000N,Hantverksprogrammet; Övriga hantverk; tapetserare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVTAP00R,Hantverksprogrammet; Övriga hantverk; tapetserare (riksrekrytering),Yrkesprogram
+HVTAP00RI,Hantverksprogrammet; Övriga hantverk; tapetserare (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVTAP00RN,Hantverksprogrammet; Övriga hantverk; tapetserare (riksrekrytering) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVTAP0A,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling",Yrkesprogram
+HVTAP0A0I,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTAP0A0N,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTAP0AR,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling (riksrekrytering)",Yrkesprogram
+HVTAP0ARI,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTAP0ARN,"Hantverksprogrammet; Övriga hantverk; tapetserare, anställd lärling (riksrekrytering) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTAP0L,"Hantverksprogrammet, Övriga hantverk, tapetserare, lärling",Yrkesprogram
+HVTAP0L0I,"Hantverksprogrammet; Övriga hantverk; tapetserare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTAP0L0N,"Hantverksprogrammet; Övriga hantverk; tapetserare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTAP0LR,"Hantverksprogrammet; Övriga hantverk; tapetserare, lärling (riksrekrytering)",Yrkesprogram
+HVTAP0LRI,"Hantverksprogrammet; Övriga hantverk; tapetserare, lärling (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTAP0LRN,"Hantverksprogrammet; Övriga hantverk; tapetserare, lärling (riksrekrytering) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTEX,"Hantverksprogrammet, Textil design",Yrkesprogram
+HVTEX000I,Hantverksprogrammet; Textil design (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVTEX000N,Hantverksprogrammet; Textil design (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVTEX0A,"Hantverksprogrammet; Textil design, anställd lärling",Yrkesprogram
+HVTEX0A0I,"Hantverksprogrammet; Textil design, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTEX0A0N,"Hantverksprogrammet; Textil design, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTEX0L,"Hantverksprogrammet, Textil design, lärling",Yrkesprogram
+HVTEX0L0I,"Hantverksprogrammet; Textil design, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTEX0L0N,"Hantverksprogrammet; Textil design, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTIM,"Hantverksprogrammet, Övriga hantverk, timmerman",Yrkesprogram
+HVTIM000I,Hantverksprogrammet; Övriga hantverk; timmerman (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVTIM000N,Hantverksprogrammet; Övriga hantverk; timmerman (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVTIM0A,"Hantverksprogrammet; Övriga hantverk; timmerman, anställd lärling",Yrkesprogram
+HVTIM0A0I,"Hantverksprogrammet; Övriga hantverk; timmerman, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTIM0A0N,"Hantverksprogrammet; Övriga hantverk; timmerman, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVTIM0L,"Hantverksprogrammet, Övriga hantverk, timmerman, lärling",Yrkesprogram
+HVTIM0L0I,"Hantverksprogrammet; Övriga hantverk; timmerman, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVTIM0L0N,"Hantverksprogrammet; Övriga hantverk; timmerman, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVURM,"Hantverksprogrammet, Övriga hantverk, urmakare",Yrkesprogram
+HVURM000I,Hantverksprogrammet; Övriga hantverk; urmakare (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVURM000N,Hantverksprogrammet; Övriga hantverk; urmakare (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVURM00R,"Hantverksprogrammet, Övriga hantverk, urmakare (riksrekrytering)",Yrkesprogram
+HVURM00RI,Hantverksprogrammet; Övriga hantverk; urmakare (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+HVURM00RN,Hantverksprogrammet; Övriga hantverk; urmakare (riksrekrytering) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+HVURM0A,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling",Yrkesprogram
+HVURM0A0I,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVURM0A0N,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVURM0AR,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling (riksrekrytering)",Yrkesprogram
+HVURM0ARI,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVURM0ARN,"Hantverksprogrammet; Övriga hantverk; urmakare, anställd lärling (riksrekrytering) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVURM0L,"Hantverksprogrammet, Övriga hantverk, urmakare, lärling",Yrkesprogram
+HVURM0L0I,"Hantverksprogrammet; Övriga hantverk; urmakare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVURM0L0N,"Hantverksprogrammet; Övriga hantverk; urmakare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+HVURM0LR,"Hantverksprogrammet, Övriga hantverk, urmakare, lärling (riksrekrytering)",Yrkesprogram
+HVURM0LRI,"Hantverksprogrammet; Övriga hantverk; urmakare, lärling (riksrekrytering) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+HVURM0LRN,"Hantverksprogrammet; Övriga hantverk; urmakare, lärling (riksrekrytering) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+IB,International Baccaleurate,International Baccaleurate
+IB000000I,International Baccaleurate (Idrottsutbildning vid riksidrottsgymnasium),International Baccaleurate
+IB000000N,International Baccaleurate (Nationellt godkänd idrottsutbildning),International Baccaleurate
+IMA,Introduktionsprogram; Individuellt alternativ (gäller fr o m 2018-07-01),Introduktionsprogram
+IMA000L,"Introduktionsprogram; Individuellt alternativ, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMIND,"Introduktionsprogram, Individuellt alternativ",Introduktionsprogram
+IMP,Introduktionsprogram; Preparandutbildning,Introduktionsprogram
+IMPRE,"Introduktionsprogram, Preparandutbildning",Introduktionsprogram
+IMPRO,Introduktionsprogram; Programinriktat individuellt val,Introduktionsprogram
+IMPROBA,"Introduktionsprogram, Programinriktat individuellt val, mot Bygg- och anläggningsprogrammet",Introduktionsprogram
+IMPROBF,"Introduktionsprogram, Programinriktat individuellt val, mot Barn- och fritidsprogrammet",Introduktionsprogram
+IMPROEE,"Introduktionsprogram, Programinriktat individuellt val, mot El och energiprogrammet",Introduktionsprogram
+IMPROFT,"Introduktionsprogram, Programinriktat individuellt val, mot Fordons- och transportprogrammet",Introduktionsprogram
+IMPROHA,"Introduktionsprogram, Programinriktat individuellt val, mot Handels- och administrationsprogrammet",Introduktionsprogram
+IMPROHT,"Introduktionsprogram, Programinriktat individuellt val, mot Hotell- och turismprogrammet",Introduktionsprogram
+IMPROHV,"Introduktionsprogram, Programinriktat individuellt val, mot Hantverksprogrammet",Introduktionsprogram
+IMPROIN,"Introduktionsprogram, Programinriktat individuellt val, mot Industritekniska programmet",Introduktionsprogram
+IMPRONB,"Introduktionsprogram, Programinriktat individuellt val, mot Naturbruksprogrammet",Introduktionsprogram
+IMPRORL,"Introduktionsprogram, Programinriktat individuellt val, mot Restaurang- och livsmedelsprogrammet",Introduktionsprogram
+IMPROVF,"Introduktionsprogram, Programinriktat individuellt val, mot VVS- och fastighetsprogrammet",Introduktionsprogram
+IMPROVO,"Introduktionsprogram, Programinriktat individuellt val, mot Vård- och omsorgsprogrammet",Introduktionsprogram
+IMR,Introduktionsprogram; Programinriktat individuellt val,Introduktionsprogram
+IMR000L,"Introduktionsprogram; Programinriktat individuellt val, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRBA,Introduktionsprogram; Programinriktat individuellt val; mot Bygg- och anläggningsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRBA0L,"Introduktionsprogram; Programinriktat individuellt val; mot Bygg- och anläggningsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRBF,Introduktionsprogram; Programinriktat individuellt val; mot Barn- och fritidsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRBF0L,"Introduktionsprogram; Programinriktat individuellt val; mot Barn- och fritidsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMREE,Introduktionsprogram; Programinriktat individuellt val; mot El och energiprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMREE0L,"Introduktionsprogram; Programinriktat individuellt val; mot El och energiprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRFT,Introduktionsprogram; Programinriktat individuellt val; mot Fordons- och transportprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRFT0L,"Introduktionsprogram; Programinriktat individuellt val; mot Fordons- och transportprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRHA,Introduktionsprogram; Programinriktat individuellt val; mot Handels- och administrationsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRHA0L,"Introduktionsprogram; Programinriktat individuellt val; mot Handels- och administrationsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRHT,Introduktionsprogram; Programinriktat individuellt val; mot Hotell- och turismprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRHT0L,"Introduktionsprogram; Programinriktat individuellt val; mot Hotell- och turismprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRHV,Introduktionsprogram; Programinriktat individuellt val; mot Hantverksprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRHV0L,"Introduktionsprogram; Programinriktat individuellt val; mot Hantverksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRIN,Introduktionsprogram; Programinriktat individuellt val; mot Industritekniska programmet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRIN0L,"Introduktionsprogram; Programinriktat individuellt val; mot Industritekniska programmet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRNB,Introduktionsprogram; Programinriktat individuellt val; mot Naturbruksprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRNB0L,"Introduktionsprogram; Programinriktat individuellt val; mot Naturbruksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRRL,Introduktionsprogram; Programinriktat individuellt val; mot Restaurang- och livsmedelsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRRL0L,"Introduktionsprogram; Programinriktat individuellt val; mot Restaurang- och livsmedelsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRVF,Introduktionsprogram; Programinriktat individuellt val; mot VVS- och fastighetsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRVF0L,"Introduktionsprogram; Programinriktat individuellt val; mot VVS- och fastighetsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMRVO,Introduktionsprogram; Programinriktat individuellt val; mot Vård- och omsorgsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMRVO0L,"Introduktionsprogram; Programinriktat individuellt val; mot Vård- och omsorgsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMS,Introduktionsprogram; Språkintroduktion (gäller fr o m 2018-07-01),Introduktionsprogram
+IMSPR,"Introduktionsprogram, Språkintroduktion",Introduktionsprogram
+IMV,Introduktionsprogram; Programinriktat val (gäller fr o m 2019-07-01),Introduktionsprogram
+IMV000L,"Introduktionsprogram; Programinriktat val, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVBA,Introduktionsprogram; Programinriktat val; mot Bygg- och anläggningsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVBA0L,"Introduktionsprogram; Programinriktat val; mot Bygg- och anläggningsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVBF,Introduktionsprogram; Programinriktat val; mot Barn- och fritidsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVBF0L,"Introduktionsprogram; Programinriktat val; mot Barn- och fritidsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVEE,Introduktionsprogram; Programinriktat val; mot El- och energiprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVEE0L,"Introduktionsprogram; Programinriktat val; mot El- och energiprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVEK,Introduktionsprogram; Programinriktat val; mot Ekonomiprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVES,Introduktionsprogram; Programinriktat val; mot Estetiska programmet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVFT,Introduktionsprogram; Programinriktat val; mot Fordons- och transportprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVFT0L,"Introduktionsprogram; Programinriktat val; mot Fordons- och transportprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVHA,Introduktionsprogram; Programinriktat val; mot Handels- och administrationsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVHA0L,"Introduktionsprogram; Programinriktat val; mot Handels- och administrationsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVHT,Introduktionsprogram; Programinriktat val; mot Hotell- och turismprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVHT0L,"Introduktionsprogram; Programinriktat val; mot Hotell- och turismprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVHU,Introduktionsprogram; Programinriktat val; mot Humanistiska programmet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVHV,Introduktionsprogram; Programinriktat val; mot Hantverksprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVHV0L,"Introduktionsprogram; Programinriktat val; mot Hantverksprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVIN,Introduktionsprogram; Programinriktat val; mot Industritekniska programmet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVIN0L,"Introduktionsprogram; Programinriktat val; mot Industritekniska programmet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVNA,Introduktionsprogram; Programinriktat val; mot Naturvetenskapsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVNB,Introduktionsprogram; Programinriktat val; mot Naturbruksprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVNB0L,"Introduktionsprogram; Programinriktat val; mot Naturbruksprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVRL,Introduktionsprogram; Programinriktat val; mot Restaurang- och livsmedelsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVRL0L,"Introduktionsprogram; Programinriktat val; mot Restaurang- och livsmedelsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVSA,Introduktionsprogram; Programinriktat val; mot Samhällsvetenskapsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVTE,Introduktionsprogram; Programinriktat val; mot Teknikprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVVF,Introduktionsprogram; Programinriktat val; mot VVS- och fastighetsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVVF0L,"Introduktionsprogram; Programinriktat val; mot VVS- och fastighetsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMVVO,Introduktionsprogram; Programinriktat val; mot Vård- och omsorgsprogrammet (gäller fr o m 2019-07-01),Introduktionsprogram
+IMVVO0L,"Introduktionsprogram; Programinriktat val; mot Vård- och omsorgsprogrammet, lärlingsliknande utbildning (gäller fr o m 2019-07-01)",Introduktionsprogram
+IMY,Introduktionsprogram; Yrkesintroduktion (gäller fr o m 2018-07-01),Introduktionsprogram
+IMY000L,"Introduktionsprogram; Yrkesintroduktion, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYBA,Introduktionsprogram; Yrkesintroduktion; mot Bygg- och anläggningsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYBA0L,"Introduktionsprogram; Yrkesintroduktion; mot Bygg- och anläggningsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYBF,Introduktionsprogram; Yrkesintroduktion; mot Barn- och fritidsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYBF0L,"Introduktionsprogram; Yrkesintroduktion; mot Barn- och fritidsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYEE,Introduktionsprogram; Yrkesintroduktion; mot El- och energiprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYEE0L,"Introduktionsprogram; Yrkesintroduktion; mot El- och energiprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYFT,Introduktionsprogram; Yrkesintroduktion; mot Fordons- och transportprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYFT0L,"Introduktionsprogram; Yrkesintroduktion; mot Fordons- och transportprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYHA,Introduktionsprogram; Yrkesintroduktion; mot Handels- och administrationsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYHA0L,"Introduktionsprogram; Yrkesintroduktion; mot Handels- och administrationsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)b",Introduktionsprogram
+IMYHT,Introduktionsprogram; Yrkesintroduktion; mot Hotell- och turismprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYHT0L,"Introduktionsprogram; Yrkesintroduktion; mot Hotell- och turismprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYHV,Introduktionsprogram; Yrkesintroduktion; mot Hantverksprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYHV0L,"Introduktionsprogram; Yrkesintroduktion; mot Hantverksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYIN,Introduktionsprogram; Yrkesintroduktion; mot Industritekniska programmet,Introduktionsprogram
+IMYIN0L,"Introduktionsprogram; Yrkesintroduktion; mot Industritekniska programmet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYNB,Introduktionsprogram; Yrkesintroduktion; mot Naturbruksprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYNB0L,"Introduktionsprogram; Yrkesintroduktion; mot Naturbruksprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYRK,"Introduktionsprogram, Yrkesintroduktion",Introduktionsprogram
+IMYRKBA,"Introduktionsprogram, Yrkesintroduktion, mot Bygg- och anläggningsprogrammet",Introduktionsprogram
+IMYRKBF,"Introduktionsprogram, Yrkesintroduktion, mot Barn- och fritidsprogrammet",Introduktionsprogram
+IMYRKEE,"Introduktionsprogram, Yrkesintroduktion, mot El- och energiprogrammet",Introduktionsprogram
+IMYRKFT,"Introduktionsprogram, Yrkesintroduktion, mot Fordons- och transportprogrammet",Introduktionsprogram
+IMYRKHA,"Introduktionsprogram, Yrkesintroduktion, mot Handels- och administrationsprogrammet",Introduktionsprogram
+IMYRKHT,"Introduktionsprogram, Yrkesintroduktion, mot Hotell- och turismprogrammet",Introduktionsprogram
+IMYRKHV,"Introduktionsprogram, Yrkesintroduktion, mot Hantverksprogrammet",Introduktionsprogram
+IMYRKIN,"Introduktionsprogram, Yrkesintroduktion, mot Industritekniska programmet",Introduktionsprogram
+IMYRKNB,"Introduktionsprogram, Yrkesintroduktion, mot Naturbruksprogrammet",Introduktionsprogram
+IMYRKRL,"Introduktionsprogram, Yrkesintroduktion, mot Restaurang- och livsmedelsprogrammet",Introduktionsprogram
+IMYRKVF,"Introduktionsprogram, Yrkesintroduktion, mot VVS- och fastighetsprogrammet",Introduktionsprogram
+IMYRKVO,"Introduktionsprogram, Yrkesintroduktion, mot Vård- och omsorgsprogrammet",Introduktionsprogram
+IMYRL,Introduktionsprogram; Yrkesintroduktion; mot Restaurang- och livsmedelsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYRL0L,"Introduktionsprogram; Yrkesintroduktion; mot Restaurang- och livsmedelsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYVF,Introduktionsprogram; Yrkesintroduktion; mot VVS- och fastighetsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYVF0L,"Introduktionsprogram; Yrkesintroduktion; mot VVS- och fastighetsprogrammet, lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IMYVO,Introduktionsprogram; Yrkesintroduktion; mot Vård- och omsorgsprogrammet (gäller fr o m 2018-07-01),Introduktionsprogram
+IMYVO0L,"Introduktionsprogram; Yrkesintroduktion; mot Vård- och omsorgsprogrammet,lärlingsliknande utbildning (gäller fr o m 2018-07-01)",Introduktionsprogram
+IN,Industritekniska programmet,Yrkesprogram
+IN000000I,Industritekniska programmet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+IN000000N,Industritekniska programmet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INDRI,"Industritekniska programmet, Driftsäkerhet och underhåll",Yrkesprogram
+INDRI000I,Industritekniska programmet; Driftsäkerhet och underhåll (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INDRI000N,Industritekniska programmet; Driftsäkerhet och underhåll (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INDRI00R,"Industritekniska programmet, Driftsäkerhet och underhåll (riksrekryterande)",Yrkesprogram
+INDRI00RI,Industritekniska programmet; Driftsäkerhet och underhåll (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INDRI00RN,Industritekniska programmet; Driftsäkerhet och underhåll (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INDRI0A,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling",Yrkesprogram
+INDRI0A0I,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INDRI0A0N,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INDRI0AR,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling (riksrekryterande)",Yrkesprogram
+INDRI0ARI,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INDRI0ARN,"Industritekniska programmet; Driftsäkerhet och underhåll, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INDRI0L,"Industritekniska programmet, Driftsäkerhet och underhåll, lärling",Yrkesprogram
+INDRI0L0I,"Industritekniska programmet; Driftsäkerhet och underhåll, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INDRI0L0N,"Industritekniska programmet; Driftsäkerhet och underhåll, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INDRI0LR,"Industritekniska programmet, Driftsäkerhet och underhåll, lärling (riksrekryterande)",Yrkesprogram
+INDRI0LRI,"Industritekniska programmet; Driftsäkerhet och underhåll, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INDRI0LRN,"Industritekniska programmet; Driftsäkerhet och underhåll, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRK,"Industritekniska programmet, Produkt och maskinteknik",Yrkesprogram
+INPRK000I,Industritekniska programmet; Produkt och maskinteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INPRK000N,Industritekniska programmet; Produkt och maskinteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INPRK00R,"Industritekniska programmet, Produkt och maskinteknik (riksrekryterande)",Yrkesprogram
+INPRK00RI,Industritekniska programmet; Produkt och maskinteknik (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INPRK00RN,Industritekniska programmet; Produkt och maskinteknik (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INPRK0A,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling",Yrkesprogram
+INPRK0A0I,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRK0A0N,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRK0AR,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling (riksrekryterande)",Yrkesprogram
+INPRK0ARI,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRK0ARN,"Industritekniska programmet; Produkt och maskinteknik, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRK0L,"Industritekniska programmet, Produkt och maskinteknik, lärling",Yrkesprogram
+INPRK0L0I,"Industritekniska programmet; Produkt och maskinteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRK0L0N,"Industritekniska programmet; Produkt och maskinteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRK0LR,"Industritekniska programmet, Produkt och maskinteknik, lärling (riksrekryterande)",Yrkesprogram
+INPRK0LRI,"Industritekniska programmet; Produkt och maskinteknik, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRK0LRN,"Industritekniska programmet; Produkt och maskinteknik, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRO,"Industritekniska programmet, Processteknik",Yrkesprogram
+INPRO000I,Industritekniska programmet; Processteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INPRO000N,Industritekniska programmet; Processteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INPRO0A,"Industritekniska programmet; Processteknik, anställd lärling",Yrkesprogram
+INPRO0A0I,"Industritekniska programmet; Processteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRO0A0N,"Industritekniska programmet; Processteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INPRO0L,"Industritekniska programmet, Processteknik, lärling",Yrkesprogram
+INPRO0L0I,"Industritekniska programmet; Processteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INPRO0L0N,"Industritekniska programmet; Processteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INSVE,"Industritekniska programmet, Svetsteknik",Yrkesprogram
+INSVE000I,Industritekniska programmet; Svetsteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INSVE000N,Industritekniska programmet; Svetsteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INSVE00R,"Industritekniska programmet, Svetsteknik (riksrekryterande)",Yrkesprogram
+INSVE00RI,Industritekniska programmet; Svetsteknik (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+INSVE00RN,Industritekniska programmet; Svetsteknik (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+INSVE0A,"Industritekniska programmet; Svetsteknik, anställd lärling",Yrkesprogram
+INSVE0A0I,"Industritekniska programmet; Svetsteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INSVE0A0N,"Industritekniska programmet; Svetsteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INSVE0ARI,"Industritekniska programmet; Svetsteknik, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INSVE0ARN,"Industritekniska programmet; Svetsteknik, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INSVE0L,"Industritekniska programmet, Svetsteknik, lärling",Yrkesprogram
+INSVE0L0I,"Industritekniska programmet; Svetsteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INSVE0L0N,"Industritekniska programmet; Svetsteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+INSVE0LR,"Industritekniska programmet, Svetsteknik, lärling (riksrekryterande)",Yrkesprogram
+INSVE0LRI,"Industritekniska programmet; Svetsteknik, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+INSVE0LRN,"Industritekniska programmet; Svetsteknik, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+MX,Marinteknikutbildningen,Riksrekryterande yrkesutbildning
+MX000000I,Marinteknikutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+MX000000N,Marinteknikutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+MXELO,Marinteknikutbildningen; El och elektronik,Riksrekryterande yrkesutbildning
+MXELO000I,Marinteknikutbildningen; El och elektronik (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+MXELO000N,Marinteknikutbildningen; El och elektronik (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+MXELO0A,"Marinteknikutbildningen; El och elektronik, anställd lärling",Riksrekryterande yrkesutbildning
+MXELO0A0I,"Marinteknikutbildningen; El och elektronik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+MXELO0A0N,"Marinteknikutbildningen; El och elektronik, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+MXELO0L,"Marinteknikutbildningen; El och elektronik, lärling",Riksrekryterande yrkesutbildning
+MXELO0L0I,"Marinteknikutbildningen; El och elektronik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+MXELO0L0N,"Marinteknikutbildningen; El och elektronik, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+MXSER,Marinteknikutbildningen; Service och reparation,Riksrekryterande yrkesutbildning
+MXSER000I,Marinteknikutbildningen; Service och reparation (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+MXSER000N,Marinteknikutbildningen; Service och reparation (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+MXSER0A,"Marinteknikutbildningen; Service och reparation, anställd lärling",Riksrekryterande yrkesutbildning
+MXSER0A0I,"Marinteknikutbildningen; Service och reparation, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+MXSER0A0N,"Marinteknikutbildningen; Service och reparation, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+MXSER0L,"Marinteknikutbildningen; Service och reparation, lärling",Riksrekryterande yrkesutbildning
+MXSER0L0I,"Marinteknikutbildningen; Service och reparation, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+MXSER0L0N,"Marinteknikutbildningen; Service och reparation, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+NA,Naturvetenskapsprogrammet,Högskoleförberedande program
+NA000000I,Naturvetenskapsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+NA000000N,Naturvetenskapsprogrammet (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+NABILVE,"Naturvetenskapsprogrammet, Särskild variant inom det estetiska området, bild",Högskoleförberedande program
+NABILVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, bild (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NABILVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, bild (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NADANVE,"Naturvetenskapsprogrammet, Särskild variant inom det estetiska området, dans",Högskoleförberedande program
+NADANVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, dans (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NADANVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, dans (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NADESVE,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, design",Högskoleförberedande program
+NAESEVE,"Naturvetenskapsprogrammet, Särskild variant inom det estetiska området, estetisk kommunikation",Högskoleförberedande program
+NAESEVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, estetisk kommunikation (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAESEVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, estetisk kommunikation (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAESTVE,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, estetik och media",Högskoleförberedande program
+NAESTVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, estetik och media (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAESTVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, estetik och media (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAFOTVE,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, foto",Högskoleförberedande program
+NAFOTVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, foto (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAFOTVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, foto (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAFYSVS,"Naturvetenskapsprogrammet, Särskild variant, fysik (spetsutbildning)",Högskoleförberedande program
+NAFYSVS0I,"Naturvetenskapsprogrammet; Särskild variant, fysik (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAFYSVS0N,"Naturvetenskapsprogrammet; Särskild variant, fysik (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAHIPV,"Naturvetenskapsprogrammet; Särskild variant, hippologi",Högskoleförberedande program
+NAHIPV00I,"Naturvetenskapsprogrammet; Särskild variant, hippologi (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAHIPV00N,"Naturvetenskapsprogrammet; Särskild variant, hippologi (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAHIPV0R,"Naturvetenskapsprogrammet, Särskild variant, hippologi (riksrekryterande)",Högskoleförberedande program
+NAHIPV0RI,"Naturvetenskapsprogrammet; Särskild variant, hippologi (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAHIPV0RN,"Naturvetenskapsprogrammet; Särskild variant, hippologi (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAMATVS,"Naturvetenskapsprogrammet, Särskild variant, matematik (spetsutbildning)",Högskoleförberedande program
+NAMATVS0I,"Naturvetenskapsprogrammet; Särskild variant, matematik (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAMATVS0N,"Naturvetenskapsprogrammet; Särskild variant, matematik (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAMUSVE,"Naturvetenskapsprogrammet, Särskild variant inom det estetiska området, musik",Högskoleförberedande program
+NAMUSVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, musik (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAMUSVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, musik (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NANAS,"Naturvetenskapsprogrammet, Naturvetenskap och samhälle",Högskoleförberedande program
+NANAS000I,Naturvetenskapsprogrammet; Naturvetenskap och samhälle (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+NANAS000N,Naturvetenskapsprogrammet; Naturvetenskap och samhälle (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+NANASVE,"Naturvetenskapsprogrammet, Naturvetenskap och samhälle, särskild variant inom det estetiska området",Högskoleförberedande program
+NANASVE0I,"Naturvetenskapsprogrammet; Naturvetenskap och samhälle, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NANASVE0N,"Naturvetenskapsprogrammet; Naturvetenskap och samhälle, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NANAT,"Naturvetenskapsprogrammet, Naturvetenskap",Högskoleförberedande program
+NANAT000I,Naturvetenskapsprogrammet; Naturvetenskap (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+NANAT000N,Naturvetenskapsprogrammet; Naturvetenskap (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+NANAT0S,"Naturvetenskapsprogrammet, Naturvetenskap (spetsutbildning)",Högskoleförberedande program
+NANAT0S0I,Naturvetenskapsprogrammet; Naturvetenskap (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+NANAT0S0N,Naturvetenskapsprogrammet; Naturvetenskap (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+NANATVE,"Naturvetenskapsprogrammet, Naturvetenskap, särskild variant inom det estetiska området",Högskoleförberedande program
+NANATVE0I,"Naturvetenskapsprogrammet; Naturvetenskap, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NANATVE0N,"Naturvetenskapsprogrammet; Naturvetenskap, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NASCIVS,"Naturvetenskapsprogrammet, Särskild variant, science (spetsutbildning)",Högskoleförberedande program
+NASCIVS0I,"Naturvetenskapsprogrammet; Särskild variant, science (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NASCIVS0N,"Naturvetenskapsprogrammet; Särskild variant, science (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NATEAVE,"Naturvetenskapsprogrammet, Särskild variant inom det estetiska området, teater",Högskoleförberedande program
+NATEAVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, teater (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NATEAVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, teater (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWALV,"Naturvetenskapsprogrammet, Särskild variant, Waldorf",Högskoleförberedande program
+NAWALV00I,"Naturvetenskapsprogrammet; Särskild variant, Waldorf (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWALV00N,"Naturvetenskapsprogrammet; Särskild variant, Waldorf (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWALV0R,"Naturvetenskapsprogrammet, Särskild variant, Waldorf (riksrekryterande)",Högskoleförberedande program
+NAWALV0RI,"Naturvetenskapsprogrammet; Särskild variant, Waldorf (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWALV0RN,"Naturvetenskapsprogrammet; Särskild variant, Waldorf (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWALVE,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf",Högskoleförberedande program
+NAWALVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWALVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWNAV,"Naturvetenskapsprogrammet, Särskild variant, Waldorf-natur",Högskoleförberedande program
+NAWNAV00I,"Naturvetenskapsprogrammet; Särskild variant, Waldorf-natur (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWNAV00N,"Naturvetenskapsprogrammet; Särskild variant, Waldorf-natur (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWNAV0R,"Naturvetenskapsprogrammet, Särskild variant, Waldorf-natur (riksrekryterande)",Högskoleförberedande program
+NAWNAV0RI,"Naturvetenskapsprogrammet; Särskild variant, Waldorf-natur (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWNAV0RN,"Naturvetenskapsprogrammet; Särskild variant, Waldorf-natur (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NAWNAVE,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf natur",Högskoleförberedande program
+NAWNAVE0I,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf natur (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+NAWNAVE0N,"Naturvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf natur (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+NB,Naturbruksprogrammet,Yrkesprogram
+NB000000I,Naturbruksprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NB000000N,Naturbruksprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBDJU,"Naturbruksprogrammet, Djur",Yrkesprogram
+NBDJU000I,Naturbruksprogrammet; Djur (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBDJU000N,Naturbruksprogrammet; Djur (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBDJU00R,"Naturbruksprogrammet, Djur (riksrekryterande)",Yrkesprogram
+NBDJU00RI,Naturbruksprogrammet; Djur (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBDJU00RN,Naturbruksprogrammet; Djur (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBDJU0A,"Naturbruksprogrammet; Djur, anställd lärling",Yrkesprogram
+NBDJU0A0I,"Naturbruksprogrammet; Djur, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJU0A0N,"Naturbruksprogrammet; Djur, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJU0AR,"Naturbruksprogrammet; Djur, anställd lärling (riksrekryterande)",Yrkesprogram
+NBDJU0ARI,"Naturbruksprogrammet; Djur, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJU0ARN,"Naturbruksprogrammet; Djur, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJU0L,"Naturbruksprogrammet, Djur, lärling",Yrkesprogram
+NBDJU0L0I,"Naturbruksprogrammet; Djur, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJU0L0N,"Naturbruksprogrammet; Djur, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJU0LR,"Naturbruksprogrammet, Djur, lärling (riksrekryterande)",Yrkesprogram
+NBDJU0LRI,"Naturbruksprogrammet; Djur, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJU0LRN,"Naturbruksprogrammet; Djur, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJUV0R,"Naturbruksprogrammet; Djur, särskild variant (riksrekryterande)",Yrkesprogram
+NBDJUV0RI,"Naturbruksprogrammet; Djur, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJUV0RN,"Naturbruksprogrammet; Djur, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJUVAR,"Naturbruksprogrammet; Djur, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+NBDJUVARI,"Naturbruksprogrammet; Djur, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJUVARN,"Naturbruksprogrammet; Djur, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBDJUVLR,"Naturbruksprogrammet; Djur, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+NBDJUVLRI,"Naturbruksprogrammet; Djur, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBDJUVLRN,"Naturbruksprogrammet; Djur, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASV,"Naturbruksprogrammet; Särskild variant, hästskötare",Yrkesprogram
+NBHASV00I,"Naturbruksprogrammet; Särskild variant, hästskötare (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASV00N,"Naturbruksprogrammet; Särskild variant, hästskötare (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASV0R,"Naturbruksprogrammet; Särskild variant, hästskötare (riksrekryterande)",Yrkesprogram
+NBHASV0RI,"Naturbruksprogrammet; Särskild variant, hästskötare (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASV0RN,"Naturbruksprogrammet; Särskild variant, hästskötare (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASVA,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling",Yrkesprogram
+NBHASVA0I,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASVA0N,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASVAR,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling (riksrekryterande)",Yrkesprogram
+NBHASVARI,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASVARN,"Naturbruksprogrammet; Särskild variant, hästskötare, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASVL,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling",Yrkesprogram
+NBHASVL0I,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASVL0N,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBHASVLR,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling (riksrekryterande)",Yrkesprogram
+NBHASVLRI,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBHASVLRN,"Naturbruksprogrammet; Särskild variant, hästskötare, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBLAN,"Naturbruksprogrammet, Lantbruk",Yrkesprogram
+NBLAN000I,Naturbruksprogrammet; Lantbruk (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBLAN000N,Naturbruksprogrammet; Lantbruk (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBLAN0A,"Naturbruksprogrammet; Lantbruk, anställd lärling",Yrkesprogram
+NBLAN0A0I,"Naturbruksprogrammet; Lantbruk, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBLAN0A0N,"Naturbruksprogrammet; Lantbruk, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBLAN0L,"Naturbruksprogrammet, Lantbruk, lärling",Yrkesprogram
+NBLAN0L0I,"Naturbruksprogrammet; Lantbruk, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBLAN0L0N,"Naturbruksprogrammet; Lantbruk, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBMASV,"Naturbruksprogrammet; Särskild variant, maskinmekaniker",Yrkesprogram
+NBMASV00I,"Naturbruksprogrammet; Särskild variant, maskinmekaniker (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBMASV00N,"Naturbruksprogrammet; Särskild variant, maskinmekaniker (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBMASVA,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, anställd lärling",Yrkesprogram
+NBMASVA0I,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBMASVA0N,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBMASVL,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, lärling",Yrkesprogram
+NBMASVL0I,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBMASVL0N,"Naturbruksprogrammet; Särskild variant, maskinmekaniker, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBNARV,"Naturbruksprogrammet; Särskild variant, närodlat",Yrkesprogram
+NBNARV00I,"Naturbruksprogrammet; Särskild variant, närodlat (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBNARV00N,"Naturbruksprogrammet; Särskild variant, närodlat (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBNARVA,"Naturbruksprogrammet; Särskild variant, närodlat, anställd lärling",Yrkesprogram
+NBNARVA0I,"Naturbruksprogrammet; Särskild variant, närodlat, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBNARVA0N,"Naturbruksprogrammet; Särskild variant, närodlat, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBNARVL,"Naturbruksprogrammet; Särskild variant, närodlat, lärling",Yrkesprogram
+NBNARVL0I,"Naturbruksprogrammet; Särskild variant, närodlat, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBNARVL0N,"Naturbruksprogrammet; Särskild variant, närodlat, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBRIDV0R,"Naturbruksprogrammet; Särskild variant, ridlärare(riksrekryterande)",Yrkesprogram
+NBRIDV0RI,"Naturbruksprogrammet; Särskild variant, ridlärare(riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBRIDV0RN,"Naturbruksprogrammet; Särskild variant, ridlärare(riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBRIDVAR,"Naturbruksprogrammet; Särskild variant, ridlärare, anställd lärling (riksrekryterande)",Yrkesprogram
+NBRIDVARI,"Naturbruksprogrammet; Särskild variant, ridlärare, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBRIDVARN,"Naturbruksprogrammet; Särskild variant, ridlärare, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBRIDVLR,"Naturbruksprogrammet; Särskild variant, ridlärare, lärling (riksrekryterande)",Yrkesprogram
+NBRIDVLRI,"Naturbruksprogrammet; Särskild variant, ridlärare, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBRIDVLRN,"Naturbruksprogrammet; Särskild variant, ridlärare, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKO,"Naturbruksprogrammet, Skog",Yrkesprogram
+NBSKO000I,Naturbruksprogrammet; Skog (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBSKO000N,Naturbruksprogrammet; Skog (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBSKO0A,"Naturbruksprogrammet; Skog, anställd lärling",Yrkesprogram
+NBSKO0A0I,"Naturbruksprogrammet; Skog, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKO0A0N,"Naturbruksprogrammet; Skog, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKO0L,"Naturbruksprogrammet, Skog, lärling",Yrkesprogram
+NBSKO0L0I,"Naturbruksprogrammet; Skog, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKO0L0N,"Naturbruksprogrammet; Skog, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOV,"Naturbruksprogrammet; Skog, särskild variant",Yrkesprogram
+NBSKOV00I,"Naturbruksprogrammet; Skog, särskild variant (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOV00N,"Naturbruksprogrammet; Skog, särskild variant (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOV0R,"Naturbruksprogrammet; Skog, särskild variant (riksrekryterande)",Yrkesprogram
+NBSKOV0RI,"Naturbruksprogrammet; Skog, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOV0RN,"Naturbruksprogrammet; Skog, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOVA,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling",Yrkesprogram
+NBSKOVA0I,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOVA0N,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOVAR,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+NBSKOVARI,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOVARN,"Naturbruksprogrammet; Skog, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOVL,"Naturbruksprogrammet; Skog, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+NBSKOVL0I,"Naturbruksprogrammet; Skog, särskild variant, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOVL0N,"Naturbruksprogrammet; Skog, särskild variant, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBSKOVLR,"Naturbruksprogrammet; Skog, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+NBSKOVLRI,"Naturbruksprogrammet; Skog, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBSKOVLRN,"Naturbruksprogrammet; Skog, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRA,"Naturbruksprogrammet, Trädgård",Yrkesprogram
+NBTRA000I,Naturbruksprogrammet; Trädgård (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBTRA000N,Naturbruksprogrammet; Trädgård (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBTRA00R,Naturbruksprogrammet; Trädgård (riksrekryterande),Yrkesprogram
+NBTRA00RI,Naturbruksprogrammet; Trädgård (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+NBTRA00RN,Naturbruksprogrammet; Trädgård (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+NBTRA0A,"Naturbruksprogrammet; Trädgård, anställd lärling",Yrkesprogram
+NBTRA0A0I,"Naturbruksprogrammet; Trädgård, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRA0A0N,"Naturbruksprogrammet; Trädgård, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRA0AR,"Naturbruksprogrammet; Trädgård, anställd lärling (riksrekryterande)",Yrkesprogram
+NBTRA0ARI,"Naturbruksprogrammet; Trädgård, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRA0ARN,"Naturbruksprogrammet; Trädgård, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRA0L,"Naturbruksprogrammet, Trädgård, lärling",Yrkesprogram
+NBTRA0L0I,"Naturbruksprogrammet; Trädgård, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRA0L0N,"Naturbruksprogrammet; Trädgård, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRA0LR,"Naturbruksprogrammet; Trädgård, lärling (riksrekryterande)",Yrkesprogram
+NBTRA0LRI,"Naturbruksprogrammet; Trädgård, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRA0LRN,"Naturbruksprogrammet; Trädgård, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRAV0R,"Naturbruksprogrammet; Trädgård, särskild variant (riksrekryterande)",Yrkesprogram
+NBTRAV0RI,"Naturbruksprogrammet; Trädgård, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRAV0RN,"Naturbruksprogrammet; Trädgård, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRAVAR,"Naturbruksprogrammet; Trädgård, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+NBTRAVARI,"Naturbruksprogrammet; Trädgård, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRAVARN,"Naturbruksprogrammet; Trädgård, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBTRAVLR,"Naturbruksprogrammet; Trädgård, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+NBTRAVLRI,"Naturbruksprogrammet; Trädgård, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBTRAVLRN,"Naturbruksprogrammet; Trädgård, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVAFV0R,"Naturbruksprogrammet, Särskild variant, vattenbruk - fiskodling (riksrekryterande)",Yrkesprogram
+NBVAFV0RI,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAFV0RN,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVAFVAR,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling, anställd lärling (riksrekryterande)",Yrkesprogram
+NBVAFVARI,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAFVARN,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVAFVLR,"Naturbruksprogrammet, Särskild variant, vattenbruk - fiskodling, lärling (riksrekryterande)",Yrkesprogram
+NBVAFVLRI,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAFVLRN,"Naturbruksprogrammet; Särskild variant, vattenbruk - fiskodling, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVAMV,"Naturbruksprogrammet, Särskild variant, vattenbruk - marinbiologi",Yrkesprogram
+NBVAMV00I,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAMV0N,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi",Yrkesprogram
+NBVAMVA,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi, anställd lärling",Yrkesprogram
+NBVAMVA0I,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAMVA0N,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVAMVL,"Naturbruksprogrammet, Särskild variant, vattenbruk - marinbiologi, lärling",Yrkesprogram
+NBVAMVL0I,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVAMVL0N,"Naturbruksprogrammet; Särskild variant, vattenbruk - marinbiologi, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVATV0R,"Naturbruksprogrammet, Särskild variant, vattenbruk (riksrekryterande)",Yrkesprogram
+NBVATV0RI,"Naturbruksprogrammet; Särskild variant, vattenbruk (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVATV0RN,"Naturbruksprogrammet; Särskild variant, vattenbruk (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVATVAR,"Naturbruksprogrammet; Särskild variant, vattenbruk, anställd lärling (riksrekryterande)",Yrkesprogram
+NBVATVARI,"Naturbruksprogrammet; Särskild variant, vattenbruk, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVATVARN,"Naturbruksprogrammet; Särskild variant, vattenbruk, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBVATVLR,"Naturbruksprogrammet, Särskild variant, vattenbruk, lärling (riksrekryterande)",Yrkesprogram
+NBVATVLRI,"Naturbruksprogrammet; Särskild variant, vattenbruk, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBVATVLRN,"Naturbruksprogrammet; Särskild variant, vattenbruk, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBYRKV0R,"Naturbruksprogrammet, Särskild variant, yrkesfiske i sötvatten (riksrekryterande)",Yrkesprogram
+NBYRKV0RI,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBYRKV0RN,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBYRKVAR,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten, anställd lärling (riksrekryterande)",Yrkesprogram
+NBYRKVARI,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBYRKVARN,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+NBYRKVLR,"Naturbruksprogrammet, Särskild variant, yrkesfiske i sötvatten, lärling (riksrekryterande)",Yrkesprogram
+NBYRKVLRI,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+NBYRKVLRN,"Naturbruksprogrammet; Särskild variant, yrkesfiske i sötvatten, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RL,Restaurang- och livsmedelsprogrammet,Yrkesprogram
+RL000000I,Restaurang- och livsmedelsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+RL000000N,Restaurang- och livsmedelsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+RLBAG,"Restaurang- och livsmedelsprogrammet, Bageri och konditori",Yrkesprogram
+RLBAG000I,Restaurang- och livsmedelsprogrammet; Bageri och konditori (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+RLBAG000N,Restaurang- och livsmedelsprogrammet; Bageri och konditori (Nationellt godkänd idrottsutbildning),Yrkesprogram
+RLBAG0A,"Restaurang- och livsmedelsprogrammet; Bageri och konditori, anställd lärling",Yrkesprogram
+RLBAG0A0I,"Restaurang- och livsmedelsprogrammet; Bageri och konditori, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLBAG0A0N,"Restaurang- och livsmedelsprogrammet; Bageri och konditori, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLBAG0L,"Restaurang- och livsmedelsprogrammet, Bageri och konditori, lärling",Yrkesprogram
+RLBAG0L0I,"Restaurang- och livsmedelsprogrammet; Bageri och konditori, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLBAG0L0N,"Restaurang- och livsmedelsprogrammet; Bageri och konditori, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR,"Restaurang- och livsmedelsprogrammet, Färskvaror, delikatesser och catering",Yrkesprogram
+RLFAR000I,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR000N,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR00R,"Restaurang- och livsmedelsprogrammet, Färskvaror, delikatesser och catering (riksrekryterande)",Yrkesprogram
+RLFAR00RI,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR00RN,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR0A,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling",Yrkesprogram
+RLFAR0A0I,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR0A0N,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR0AR,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling (riksrekryterande)",Yrkesprogram
+RLFAR0ARI,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR0ARN,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR0L,"Restaurang- och livsmedelsprogrammet, Färskvaror, delikatesser och catering, lärling",Yrkesprogram
+RLFAR0L0I,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR0L0N,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLFAR0LR,"Restaurang- och livsmedelsprogrammet, Färskvaror, delikatesser och catering, lärling (riksrekryterande)",Yrkesprogram
+RLFAR0LRI,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLFAR0LRN,"Restaurang- och livsmedelsprogrammet; Färskvaror, delikatesser och catering, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOK,"Restaurang- och livsmedelsprogrammet, Kök och servering",Yrkesprogram
+RLKOK000I,Restaurang- och livsmedelsprogrammet; Kök och servering (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+RLKOK000N,Restaurang- och livsmedelsprogrammet; Kök och servering (Nationellt godkänd idrottsutbildning),Yrkesprogram
+RLKOK00R,"Restaurang- och livsmedelsprogrammet, Kök och servering (riksrekryterande)",Yrkesprogram
+RLKOK00RI,Restaurang- och livsmedelsprogrammet; Kök och servering (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+RLKOK00RN,Restaurang- och livsmedelsprogrammet; Kök och servering (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+RLKOK0A,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling",Yrkesprogram
+RLKOK0A0I,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOK0A0N,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOK0AR,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling (riksrekryterande)",Yrkesprogram
+RLKOK0ARI,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOK0ARN,"Restaurang- och livsmedelsprogrammet; Kök och servering, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOK0L,"Restaurang- och livsmedelsprogrammet, Kök och servering, lärling",Yrkesprogram
+RLKOK0L0I,"Restaurang- och livsmedelsprogrammet; Kök och servering, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOK0L0N,"Restaurang- och livsmedelsprogrammet; Kök och servering, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOK0LR,"Restaurang- och livsmedelsprogrammet, Kök och servering, lärling (riksrekryterande)",Yrkesprogram
+RLKOK0LRI,"Restaurang- och livsmedelsprogrammet; Kök och servering, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOK0LRN,"Restaurang- och livsmedelsprogrammet; Kök och servering, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKV,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering",Yrkesprogram
+RLKOKV00I,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKV00N,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKV0R,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant (riksrekryterande)",Yrkesprogram
+RLKOKV0RI,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKV0RN,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKVA,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, anställd lärling",Yrkesprogram
+RLKOKVA0I,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKVA0N,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKVAR,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, anställd lärling (riksrekryterande)",Yrkesprogram
+RLKOKVARI,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKVARN,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKVL,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, lärling",Yrkesprogram
+RLKOKVL0I,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKVL0N,"Restaurang- och livsmedelsprogrammet; Särskild variant, Kök och servering, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOKVLR,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, lärling (riksrekryterande)",Yrkesprogram
+RLKOKVLRI,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOKVLRN,"Restaurang- och livsmedelsprogrammet; Kök och servering, särskild variant, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOTV0R,"Restaurang- och livsmedelsprogrammet, Särskild variant, kött och chark (riksrekryterande)",Yrkesprogram
+RLKOTV0RI,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOTV0RN,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOTVAR,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark, anställd lärling (riksrekryterande)",Yrkesprogram
+RLKOTVARI,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOTVARN,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RLKOTVLR,"Restaurang- och livsmedelsprogrammet, Särskild variant, kött och chark, lärling (riksrekryterande)",Yrkesprogram
+RLKOTVLRI,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+RLKOTVLRN,"Restaurang- och livsmedelsprogrammet; Särskild variant, kött och chark, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+RXA,RX-Samiska yrkesutbildningen,Riksrekryterande yrkesutbildning
+RXA00000I,RX-Utbildningen samiska näringar (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXA00000N,RX-Utbildningen samiska näringar (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXDAC,"RX-Sjöfartsutbildningen, Däck",Riksrekryterande yrkesutbildning
+RXDAC000I,RX-Sjöfartsutbildningen; Däck (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXDAC000N,RX-Sjöfartsutbildningen; Däck (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXDAC0L,"RX-Sjöfartsutbildningen, Däck, lärling",Riksrekryterande yrkesutbildning
+RXDAC0L0I,"RX-Sjöfartsutbildningen; Däck, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXDAC0L0N,"RX-Sjöfartsutbildningen; Däck, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXELO,"RX-Marinteknikutbildningen, El och elektronik",Riksrekryterande yrkesutbildning
+RXELO000I,RX-Marinteknikutbildningen; El och elektronik (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXELO000N,RX-Marinteknikutbildningen; El och elektronik (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXELO0L,"RX-Marinteknikutbildningen, El och elektronik, lärling",Riksrekryterande yrkesutbildning
+RXELO0L0I,"RX-Marinteknikutbildningen; El och elektronik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXELO0L0N,"RX-Marinteknikutbildningen; El och elektronik, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXF,RX-Flygteknikutbildningen,Riksrekryterande yrkesutbildning
+RXF00000I,RX-Flygteknikutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXF00000N,RX-Flygteknikutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXFLY,"RX-Flygteknikutbildningen, Flygplan",Riksrekryterande yrkesutbildning
+RXFLY000I,RX-Flygteknikutbildningen; Flygplan (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXFLY000N,RX-Flygteknikutbildningen; Flygplan (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXFLY0L,"RX-Flygteknikutbildningen, Flygplan, Lärling",Riksrekryterande yrkesutbildning
+RXFLY0L0I,"RX-Flygteknikutbildningen; Flygplan, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXFLY0L0N,"RX-Flygteknikutbildningen; Flygplan, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXHEL,"RX-Flygteknikutbildningen, Helikopter",Riksrekryterande yrkesutbildning
+RXHEL000I,RX-Flygteknikutbildningen; Helikopter (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXHEL000N,RX-Flygteknikutbildningen; Helikopter (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXHEL0L,"RX-Flygteknikutbildningen, Helikopter, lärling",Riksrekryterande yrkesutbildning
+RXHEL0L0I,"RX-Flygteknikutbildningen; Helikopter, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXHEL0L0N,"RX-Flygteknikutbildningen; Helikopter, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXM,RX-Marinteknikutbildningen,Riksrekryterande yrkesutbildning
+RXM00000I,RX-Marinteknikutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXM00000N,RX-Marinteknikutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXMAS,"RX-Sjöfartsutbildningen, Maskin",Riksrekryterande yrkesutbildning
+RXMAS000I,RX-Sjöfartsutbildningen; Maskin (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXMAS000N,RX-Sjöfartsutbildningen; Maskin (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXMAS0L,"RX-Sjöfartsutbildningen, Maskin, lärling",Riksrekryterande yrkesutbildning
+RXMAS0L0I,"RX-Sjöfartsutbildningen; Maskin, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXMAS0L0N,"RX-Sjöfartsutbildningen; Maskin, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXS,RX-Sjöfartsutbildningen,Riksrekryterande yrkesutbildning
+RXS00000I,RX-Sjöfartsutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXS00000N,RX-Sjöfartsutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXSAM,RX-Utbildningen samiska näringar;,Riksrekryterande yrkesutbildning
+RXSAM000I,RX-Utbildningen samiska näringar; (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXSAM000N,RX-Utbildningen samiska näringar; (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXSAM0L,RX-Utbildningen samiska näringar; lärling,Riksrekryterande yrkesutbildning
+RXSAM0L0I,RX-Utbildningen samiska näringar; lärling (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXSAM0L0N,RX-Utbildningen samiska näringar; lärling (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXSER,"RX-Marinteknikutbildningen, Service och reparation",Riksrekryterande yrkesutbildning
+RXSER000I,RX-Marinteknikutbildningen; Service och reparation (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXSER000N,RX-Marinteknikutbildningen; Service och reparation (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXSER0L,"RX-Marinteknikutbildningen, Service och reparation, lärling",Riksrekryterande yrkesutbildning
+RXSER0L0I,"RX-Marinteknikutbildningen; Service och reparation, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXSER0L0N,"RX-Marinteknikutbildningen; Service och reparation, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXT,RX-Tågteknikerutbildningen,Riksrekryterande yrkesutbildning
+RXT00000I,RX-Tågteknikerutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXT00000N,RX-Tågteknikerutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXTAG,"RX-Tågteknikerutbildningen, Tåg",Riksrekryterande yrkesutbildning
+RXTAG000I,RX-Tågteknikerutbildningen; Tåg (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+RXTAG000N,RX-Tågteknikerutbildningen; Tåg (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+RXTAG0L,"RX-Tågteknikerutbildningen, Tåg, lärling",Riksrekryterande yrkesutbildning
+RXTAG0L0I,"RX-Tågteknikerutbildningen; Tåg, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+RXTAG0L0N,"RX-Tågteknikerutbildningen; Tåg, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+RXYRK,"RX-Yrkesdansarutbildningen,",Riksrekryterande särskild yrkesutbildning
+RXYRK000I,RX-Yrkesdansarutbildningen; (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande särskild yrkesutbildning
+RXYRK000N,RX-Yrkesdansarutbildningen; (Nationellt godkänd idrottsutbildning),Riksrekryterande särskild yrkesutbildning
+RXYRK0L,RX-Yrkesdansarutbildningen; lärling,Riksrekryterande särskild yrkesutbildning
+RXYRK0L0I,RX-Yrkesdansarutbildningen; lärling (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande särskild yrkesutbildning
+RXYRK0L0N,RX-Yrkesdansarutbildningen; lärling (Nationellt godkänd idrottsutbildning),Riksrekryterande särskild yrkesutbildning
+SA,Samhällsvetenskapsprogrammet,Högskoleförberedande program
+SA000000I,Samhällsvetenskapsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+SA000000N,Samhällsvetenskapsprogrammet (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+SABET,"Samhällsvetenskapsprogrammet, Beteendevetenskap",Högskoleförberedande program
+SABET000I,Samhällsvetenskapsprogrammet; Beteendevetenskap (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+SABET000N,Samhällsvetenskapsprogrammet; Beteendevetenskap (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+SABET0S,"Samhällsvetenskapsprogrammet, Beteendevetenskap (spetsutbildning)",Högskoleförberedande program
+SABET0S0I,Samhällsvetenskapsprogrammet; Beteendevetenskap (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+SABET0S0N,Samhällsvetenskapsprogrammet; Beteendevetenskap (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+SABETV0R,"Samhällsvetenskapsprogrammet, Beteendevetenskap, särskild variant (riksrekryterande)",Högskoleförberedande program
+SABETV0RI,"Samhällsvetenskapsprogrammet; Beteendevetenskap, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SABETV0RN,"Samhällsvetenskapsprogrammet; Beteendevetenskap, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SABETVE,"Samhällsvetenskapsprogrammet, Beteendevetenskap, särskild variant inom det estetiska området",Högskoleförberedande program
+SABETVE0I,"Samhällsvetenskapsprogrammet; Beteendevetenskap, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SABETVE0N,"Samhällsvetenskapsprogrammet; Beteendevetenskap, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SABILVE,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, bild",Högskoleförberedande program
+SABILVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, bild (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SABILVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, bild (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SADANVE,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, dans",Högskoleförberedande program
+SADANVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, dans (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SADANVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, dans (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SADESVE,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, design",Högskoleförberedande program
+SAESEVE,"Samhällsvetenskapsprogrammet, Särskild variant inom det estetiska området, estetisk kommunikation",Högskoleförberedande program
+SAESEVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, estetisk kommunikation (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAESEVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, estetisk kommunikation (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAHALVS,"Samhällsvetenskapsprogrammet, Särskild variant, hållbar utveckling (spetsutbildning)",Högskoleförberedande program
+SAHALVS0I,"Samhällsvetenskapsprogrammet; Särskild variant, hållbar utveckling (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAHALVS0N,"Samhällsvetenskapsprogrammet; Särskild variant, hållbar utveckling (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAHISVS,"Samhällsvetenskapsprogrammet, Särskild variant, historia (spetsutbildning)",Högskoleförberedande program
+SAHISVS0I,"Samhällsvetenskapsprogrammet; Särskild variant, historia (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAHISVS0N,"Samhällsvetenskapsprogrammet; Särskild variant, historia (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAHUMVS,"Samhällsvetenskapsprogrammet, Särskild variant, humaniora (spetsutbildning)",Högskoleförberedande program
+SAHUMVS0I,"Samhällsvetenskapsprogrammet; Särskild variant, humaniora (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAHUMVS0N,"Samhällsvetenskapsprogrammet; Särskild variant, humaniora (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAINDVS,"Samhällsvetenskapsprogrammet, Särskild variant, individ och samtidskultur (spetsutbildning)",Högskoleförberedande program
+SAINDVS0I,"Samhällsvetenskapsprogrammet; Särskild variant, individ och samtidskultur (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAINDVS0N,"Samhällsvetenskapsprogrammet; Särskild variant, individ och samtidskultur (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAMED,"Samhällsvetenskapsprogrammet, Medier, information och kommunikation",Högskoleförberedande program
+SAMED000I,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAMED000N,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAMEDV0R,"Samhällsvetenskapsprogrammet, Medier, information och kommunikation, särskild variant (riksrekryterande)",Högskoleförberedande program
+SAMEDV0RI,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAMEDV0RN,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAMEDVE,"Samhällsvetenskapsprogrammet, Medier, information och kommunikation, särskild variant inom det estetiska området",Högskoleförberedande program
+SAMEDVE0I,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAMEDVE0N,"Samhällsvetenskapsprogrammet; Medier, information och kommunikation, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAMUSVE,"Samhällsvetenskapsprogrammet, Särskild variant inom det estetiska området, musik",Högskoleförberedande program
+SAMUSVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, musik (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAMUSVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, musik (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASAIV,"Samhällsvetenskapsprogrammet; Särskild variant, samisk profil",Högskoleförberedande program
+SASAIV00I,"Samhällsvetenskapsprogrammet; Särskild variant, samisk profil (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SASAIV00N,"Samhällsvetenskapsprogrammet; Särskild variant, samisk profil (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASAIV0R,"Samhällsvetenskapsprogrammet, Särskild variant, samisk profil (riksrekryterande)",Högskoleförberedande program
+SASAIV0RI,"Samhällsvetenskapsprogrammet; Särskild variant, samisk profil (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SASAIV0RN,"Samhällsvetenskapsprogrammet; Särskild variant, samisk profil (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASAM,"Samhällsvetenskapsprogrammet, Samhällsvetenskap",Högskoleförberedande program
+SASAM000I,Samhällsvetenskapsprogrammet; Samhällsvetenskap (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+SASAM000N,Samhällsvetenskapsprogrammet; Samhällsvetenskap (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+SASAM0S,"Samhällsvetenskapsprogrammet, Samhällsvetenskap (spetsutbildning)",Högskoleförberedande program
+SASAM0S0I,Samhällsvetenskapsprogrammet; Samhällsvetenskap (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+SASAM0S0N,Samhällsvetenskapsprogrammet; Samhällsvetenskap (spetsutbildning) (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+SASAMV,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant",Högskoleförberedande program
+SASAMV00N,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASAMV0R,"Samhällsvetenskapsprogrammet, Samhällsvetenskap, särskild variant (riksrekryterande)",Högskoleförberedande program
+SASAMV0RI,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SASAMV0RN,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASAMVE,"Samhällsvetenskapsprogrammet, Samhällsvetenskap, särskild variant inom det estetiska området",Högskoleförberedande program
+SASAMVE0I,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SASAMVE0N,"Samhällsvetenskapsprogrammet; Samhällsvetenskap, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SASPAVS,"Samhällsvetenskapsprogrammet; Särskild variant, språk (spetsutbildning)",Högskoleförberedande program
+SASPAVS0I,"Samhällsvetenskapsprogrammet; Särskild variant, språk (spetsutbildning) (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SASPAVS0N,"Samhällsvetenskapsprogrammet; Särskild variant, språk (spetsutbildning) (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SATEAVE,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, teater",Högskoleförberedande program
+SATEAVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, teater (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SATEAVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, teater (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SAWALVE,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf",Högskoleförberedande program
+SAWALVE0I,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+SAWALVE0N,"Samhällsvetenskapsprogrammet; Särskild variant inom det estetiska området, Waldorf (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+SX,Sjöfartsutbildningen,Riksrekryterande yrkesutbildning
+SX000000I,Sjöfartsutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+SX000000N,Sjöfartsutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+SXDAC,Sjöfartsutbildningen; Däck,Riksrekryterande yrkesutbildning
+SXDAC000I,Sjöfartsutbildningen; Däck (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+SXDAC000N,Sjöfartsutbildningen; Däck (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+SXDAC0A,"Sjöfartsutbildningen; Däck, anställd lärling",Riksrekryterande yrkesutbildning
+SXDAC0A0I,"Sjöfartsutbildningen; Däck, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+SXDAC0A0N,"Sjöfartsutbildningen; Däck, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+SXDAC0L,"Sjöfartsutbildningen; Däck, lärling",Riksrekryterande yrkesutbildning
+SXDAC0L0I,"Sjöfartsutbildningen; Däck, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+SXDAC0L0N,"Sjöfartsutbildningen; Däck, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+SXMAS,Sjöfartsutbildningen; Maskin,Riksrekryterande yrkesutbildning
+SXMAS000I,Sjöfartsutbildningen; Maskin (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+SXMAS000N,Sjöfartsutbildningen; Maskin (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+SXMAS0A,"Sjöfartsutbildningen; Maskin, anställd lärling",Riksrekryterande yrkesutbildning
+SXMAS0A0I,"Sjöfartsutbildningen; Maskin, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+SXMAS0A0N,"Sjöfartsutbildningen; Maskin, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+SXMAS0L,"Sjöfartsutbildningen; Maskin, lärling",Riksrekryterande yrkesutbildning
+SXMAS0L0I,"Sjöfartsutbildningen; Maskin, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+SXMAS0L0N,"Sjöfartsutbildningen; Maskin, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+T4INF,"Teknikprogrammet, Gymnasieingenjörsexamen, fjärde tekniskt år, informationsteknik",Högskoleförberedande program
+T4INF000I,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, informationsteknik (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+T4INF000N,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, informationsteknik (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+T4INN,"Teknikprogrammet, Gymnasieingenjörsexamen, fjärde tekniskt år, innovation och produktion",Högskoleförberedande program
+T4INN000I,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, innovation och produktion (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+T4INN000N,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, innovation och produktion (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+T4SAM,"Teknikprogrammet, Gymnasieingenjörsexamen, fjärde tekniskt år, samhällsbyggande",Högskoleförberedande program
+T4SAM000I,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, samhällsbyggande (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+T4SAM000N,"Teknikprogrammet; Gymnasieingenjörsexamen, fjärde tekniskt år, samhällsbyggande (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TE,Teknikprogrammet,Högskoleförberedande program
+TE000000I,Teknikprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TE000000N,Teknikprogrammet (NIU),Högskoleförberedande program
+TEDES,"Teknikprogrammet, Design och produktutveckling",Högskoleförberedande program
+TEDES000I,Teknikprogrammet; Design och produktutveckling (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TEDES000N,Teknikprogrammet; Design och produktutveckling (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+TEDESVE,"Teknikprogrammet, Design och produktutveckling, särskild variant inom det estetiska området",Högskoleförberedande program
+TEDESVE0I,"Teknikprogrammet; Design och produktutveckling, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TEDESVE0N,"Teknikprogrammet; Design och produktutveckling, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TEINF,"Teknikprogrammet, Informations- och medieteknik",Högskoleförberedande program
+TEINF000I,Teknikprogrammet; Informations- och medieteknik (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TEINF000N,Teknikprogrammet; Informations- och medieteknik (NIU),Högskoleförberedande program
+TEINFVE,"Teknikprogrammet, Informations- och medieteknik, särskild variant inom det estetiska området",Högskoleförberedande program
+TEINFVE0I,"Teknikprogrammet; Informations- och medieteknik, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TEINFVE0N,"Teknikprogrammet; Informations- och medieteknik, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TELOGVS,"Teknikprogrammet; Särskild variant, logistik och e-handel",Högskoleförberedande program
+TELOGVS0I,"Teknikprogrammet; Särskild variant, logistik och e-handel (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TELOGVS0N,"Teknikprogrammet; Särskild variant, logistik och e-handel (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TEPRO,"Teknikprogrammet, Produktionsteknik",Högskoleförberedande program
+TEPRO000I,Teknikprogrammet; Produktionsteknik (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TEPRO000N,Teknikprogrammet; Produktionsteknik (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+TEPROVE,"Teknikprogrammet, Produktionsteknik, särskild variant inom det estetiska området",Högskoleförberedande program
+TEPROVE0I,"Teknikprogrammet; Produktionsteknik, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TEPROVE0N,"Teknikprogrammet; Produktionsteknik, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TEROBVS,"Teknikprogrammet; Särskild variant, smarta system och produkter",Högskoleförberedande program
+TEROBVS0I,"Teknikprogrammet; Särskild variant, smarta system och produkter (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TEROBVS0N,"Teknikprogrammet; Särskild variant, smarta system och produkter (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TESAM,"Teknikprogrammet, Samhällsbyggande och miljö",Högskoleförberedande program
+TESAM000I,Teknikprogrammet; Samhällsbyggande och miljö (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TESAM000N,Teknikprogrammet; Samhällsbyggande och miljö (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+TESAMVE,"Teknikprogrammet, Samhällsbyggande och miljö, särskild variant inom det estetiska området",Högskoleförberedande program
+TESAMVE0I,"Teknikprogrammet; Samhällsbyggande och miljö, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TESAMVE0N,"Teknikprogrammet; Samhällsbyggande och miljö, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TESJOV,"Teknikprogrammet; Särskild variant, sjöfart",Högskoleförberedande program
+TESJOV00I,"Teknikprogrammet; Särskild variant, sjöfart (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TESJOV00N,"Teknikprogrammet; Särskild variant, sjöfart (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TETEK,"Teknikprogrammet, Teknikvetenskap",Högskoleförberedande program
+TETEK000I,Teknikprogrammet; Teknikvetenskap (Idrottsutbildning vid riksidrottsgymnasium),Högskoleförberedande program
+TETEK000N,Teknikprogrammet; Teknikvetenskap (Nationellt godkänd idrottsutbildning),Högskoleförberedande program
+TETEKVE,"Teknikprogrammet, Teknikvetenskap, särskild variant inom det estetiska området",Högskoleförberedande program
+TETEKVE0I,"Teknikprogrammet; Teknikvetenskap, särskild variant inom det estetiska området (Idrottsutbildning vid riksidrottsgymnasium)",Högskoleförberedande program
+TETEKVE0N,"Teknikprogrammet; Teknikvetenskap, särskild variant inom det estetiska området (Nationellt godkänd idrottsutbildning)",Högskoleförberedande program
+TX,RX-Tågteknikerutbildningen,Riksrekryterande yrkesutbildning
+TX000000I,RX-Tågteknikerutbildningen (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+TX000000N,RX-Tågteknikerutbildningen (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+TXTAG,RX-Tågteknikerutbildningen; Tåg,Riksrekryterande yrkesutbildning
+TXTAG000I,RX-Tågteknikerutbildningen; Tåg (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+TXTAG000N,RX-Tågteknikerutbildningen; Tåg (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+TXTAG0A,"Tågteknikutbildningen; Tåg, anställd lärling",Riksrekryterande yrkesutbildning
+TXTAG0A0I,"Tågteknikutbildningen; Tåg, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+TXTAG0A0N,"Tågteknikutbildningen; Tåg, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+TXTAG0L,"RX-Tågteknikerutbildningen; Tåg, lärling",Riksrekryterande yrkesutbildning
+TXTAG0L0I,"RX-Tågteknikerutbildningen; Tåg, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande yrkesutbildning
+TXTAG0L0N,"RX-Tågteknikerutbildningen; Tåg, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande yrkesutbildning
+UX,RX-Utbildningen samiska näringar,Riksrekryterande yrkesutbildning
+UX000000I,RX-Utbildningen samiska näringar (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+UX000000N,RX-Utbildningen samiska näringar (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+UXSAM,RX-Utbildningen samiska näringar;,Riksrekryterande yrkesutbildning
+UXSAM000I,RX-Utbildningen samiska näringar; (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+UXSAM000N,RX-Utbildningen samiska näringar; (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+UXSAM0A,Utbildningen samiska näringar; anställd lärling,Riksrekryterande yrkesutbildning
+UXSAM0A0I,Utbildningen samiska näringar; anställd lärling (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+UXSAM0A0N,Utbildningen samiska näringar; anställd lärling (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+UXSAM0L,RX-Utbildningen samiska näringar; lärling,Riksrekryterande yrkesutbildning
+UXSAM0L0I,RX-Utbildningen samiska näringar; lärling (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande yrkesutbildning
+UXSAM0L0N,RX-Utbildningen samiska näringar; lärling (Nationellt godkänd idrottsutbildning),Riksrekryterande yrkesutbildning
+VF,VVS- och fastighetsprogrammet,Yrkesprogram
+VF000000I,VVS- och fastighetsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VF000000N,VVS- och fastighetsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFFAS,"VVS- och fastighetsprogrammet, Fastighet",Yrkesprogram
+VFFAS000I,VVS- och fastighetsprogrammet; Fastighet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VFFAS000N,VVS- och fastighetsprogrammet; Fastighet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFFAS0A,"VVS- och fastighetsprogrammet; Fastighet, anställd lärling",Yrkesprogram
+VFFAS0A0I,"VVS- och fastighetsprogrammet; Fastighet, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFFAS0A0N,"VVS- och fastighetsprogrammet; Fastighet, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFFAS0L,"VVS- och fastighetsprogrammet, Fastighet, lärling",Yrkesprogram
+VFFAS0L0I,"VVS- och fastighetsprogrammet; Fastighet, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFFAS0L0N,"VVS- och fastighetsprogrammet; Fastighet, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFKYL,"VVS- och fastighetsprogrammet, Kyl- och värmepumpsteknik",Yrkesprogram
+VFKYL000I,VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VFKYL000N,VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFKYL0A,"VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik, anställd lärling",Yrkesprogram
+VFKYL0A0I,"VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFKYL0A0N,"VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFKYL0L,"VVS- och fastighetsprogrammet, Kyl- och värmepumpsteknik, lärling",Yrkesprogram
+VFKYL0L0I,"VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFKYL0L0N,"VVS- och fastighetsprogrammet; Kyl- och värmepumpsteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVEN,"VVS- och fastighetsprogrammet, Ventilationsteknik",Yrkesprogram
+VFVEN000I,VVS- och fastighetsprogrammet; Ventilationsteknik (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VFVEN000N,VVS- och fastighetsprogrammet; Ventilationsteknik (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFVEN0A,"VVS- och fastighetsprogrammet; Ventilationsteknik, anställd lärling",Yrkesprogram
+VFVEN0A0I,"VVS- och fastighetsprogrammet; Ventilationsteknik, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVEN0A0N,"VVS- och fastighetsprogrammet; Ventilationsteknik, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVEN0L,"VVS- och fastighetsprogrammet, Ventilationsteknik, lärling",Yrkesprogram
+VFVEN0L0I,"VVS- och fastighetsprogrammet; Ventilationsteknik, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVEN0L0N,"VVS- och fastighetsprogrammet; Ventilationsteknik, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVVS,"VVS- och fastighetsprogrammet, VVS",Yrkesprogram
+VFVVS000I,VVS- och fastighetsprogrammet; VVS (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VFVVS000N,VVS- och fastighetsprogrammet; VVS (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFVVS00R,"VVS- och fastighetsprogrammet, VVS (riksrekryterande)",Yrkesprogram
+VFVVS00RI,VVS- och fastighetsprogrammet; VVS (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VFVVS00RN,VVS- och fastighetsprogrammet; VVS (riksrekryterande) (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VFVVS0A,"VVS- och fastighetsprogrammet; VVS, anställd lärling",Yrkesprogram
+VFVVS0A0I,"VVS- och fastighetsprogrammet; VVS, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVVS0A0N,"VVS- och fastighetsprogrammet; VVS, anställd lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVVS0AR,"VVS- och fastighetsprogrammet; VVS, anställd lärling (riksrekryterande)",Yrkesprogram
+VFVVS0ARI,"VVS- och fastighetsprogrammet; VVS, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVVS0ARN,"VVS- och fastighetsprogrammet; VVS, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVVS0L,"VVS- och fastighetsprogrammet, VVS, lärling",Yrkesprogram
+VFVVS0L0I,"VVS- och fastighetsprogrammet; VVS, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVVS0L0N,"VVS- och fastighetsprogrammet; VVS, lärling (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VFVVS0LR,"VVS- och fastighetsprogrammet, VVS, lärling (riksrekryterande)",Yrkesprogram
+VFVVS0LRI,"VVS- och fastighetsprogrammet; VVS, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VFVVS0LRN,"VVS- och fastighetsprogrammet; VVS, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VIDES,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, design och produktutveckling","Vidareutbildning, med ett fjärde år"
+VIDES000I,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, design och produktutveckling (Idrottsutbildning vid riksidrottsgymnasium)","Vidareutbildning, med ett fjärde år"
+VIDES000N,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, design och produktutveckling (Nationellt godkänd idrottsutbildning)","Vidareutbildning, med ett fjärde år"
+VIINF,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, informationsteknik","Vidareutbildning, med ett fjärde år"
+VIINF000I,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, informationsteknik (Idrottsutbildning vid riksidrottsgymnasium)","Vidareutbildning, med ett fjärde år"
+VIINF000N,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, informationsteknik (Nationellt godkänd idrottsutbildning)","Vidareutbildning, med ett fjärde år"
+VIPRO,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, produktionsteknik","Vidareutbildning, med ett fjärde år"
+VIPRO000I,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, produktionsteknik (Idrottsutbildning vid riksidrottsgymnasium)","Vidareutbildning, med ett fjärde år"
+VIPRO000N,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, produktionsteknik (Nationellt godkänd idrottsutbildning)","Vidareutbildning, med ett fjärde år"
+VISAM,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, samhällsbyggande","Vidareutbildning, med ett fjärde år"
+VISAM000I,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, samhällsbyggande (Idrottsutbildning vid riksidrottsgymnasium)","Vidareutbildning, med ett fjärde år"
+VISAM000N,"Teknikprogrammet; Gymnasieingenjörsexamen, vidareutbildning i form av ett fjärde tekniskt år, samhällsbyggande (Nationellt godkänd idrottsutbildning)","Vidareutbildning, med ett fjärde år"
+VO,Vård- och omsorgsprogrammet,Yrkesprogram
+VO000000I,Vård- och omsorgsprogrammet (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VO000000N,Vård- och omsorgsprogrammet (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VOVAR,"Vård- och omsorgsprogrammet,",Yrkesprogram
+VOVAR000I,Vård- och omsorgsprogrammet; (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VOVAR000N,Vård- och omsorgsprogrammet; (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VOVAR0A,Vård- och omsorgsprogrammet; anställd lärling,Yrkesprogram
+VOVAR0A0I,Vård- och omsorgsprogrammet; anställd lärling (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VOVAR0A0N,Vård- och omsorgsprogrammet; anställd lärling (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VOVAR0L,"Vård- och omsorgsprogrammet, lärling",Yrkesprogram
+VOVAR0L0I,Vård- och omsorgsprogrammet; lärling (Idrottsutbildning vid riksidrottsgymnasium),Yrkesprogram
+VOVAR0L0N,Vård- och omsorgsprogrammet; lärling (Nationellt godkänd idrottsutbildning),Yrkesprogram
+VOVARV0R,"Vård- och omsorgsprogrammet, Särskild variant, teckenspråk (riksrekryterande)",Yrkesprogram
+VOVARV0RI,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VOVARV0RN,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VOVARVAR,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk, anställd lärling (riksrekryterande)",Yrkesprogram
+VOVARVARI,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk, anställd lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VOVARVARN,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk, anställd lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+VOVARVLR,"Vård- och omsorgsprogrammet, Särskild variant, teckenspråk, lärling (riksrekryterande)",Yrkesprogram
+VOVARVLRI,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk, lärling (riksrekryterande) (Idrottsutbildning vid riksidrottsgymnasium)",Yrkesprogram
+VOVARVLRN,"Vård- och omsorgsprogrammet; Särskild variant, teckenspråk, lärling (riksrekryterande) (Nationellt godkänd idrottsutbildning)",Yrkesprogram
+YX,Yrkesdansarutbildningen;,Riksrekryterande särskild yrkesutbildning
+YX000000I,Yrkesdansarutbildningen; (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande särskild yrkesutbildning
+YX000000N,Yrkesdansarutbildningen; (Nationellt godkänd idrottsutbildning),Riksrekryterande särskild yrkesutbildning
+YXKLA,Yrkesdansarutbildningen; Klassisk balett,Riksrekryterande särskild yrkesutbildning
+YXKLA000I,Yrkesdansarutbildningen; Klassisk balett (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande särskild yrkesutbildning
+YXKLA000N,Yrkesdansarutbildningen; Klassisk balett (Nationellt godkänd idrottsutbildning),Riksrekryterande särskild yrkesutbildning
+YXKLA0A,"Yrkesdansarutbildningen; Klassisk balett, anställd lärling",Riksrekryterande särskild yrkesutbildning
+YXKLA0A0I,"Yrkesdansarutbildningen; Klassisk balett, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande särskild yrkesutbildning
+YXKLA0A0N,"Yrkesdansarutbildningen; Klassisk balett, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande särskild yrkesutbildning
+YXKLA0L,"Yrkesdansarutbildningen; Klassisk balett, lärling",Riksrekryterande särskild yrkesutbildning
+YXKLA0L0I,"Yrkesdansarutbildningen; Klassisk balett, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande särskild yrkesutbildning
+YXKLA0L0N,"Yrkesdansarutbildningen; Klassisk balett, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande särskild yrkesutbildning
+YXMOD,Yrkesdansarutbildningen; Modern nutida dans,Riksrekryterande särskild yrkesutbildning
+YXMOD000I,Yrkesdansarutbildningen; Modern nutida dans (Idrottsutbildning vid riksidrottsgymnasium),Riksrekryterande särskild yrkesutbildning
+YXMOD000N,Yrkesdansarutbildningen; Modern nutida dans (Nationellt godkänd idrottsutbildning),Riksrekryterande särskild yrkesutbildning
+YXMOD0A,"Yrkesdansarutbildningen; Modern nutida dans, anställd lärling",Riksrekryterande särskild yrkesutbildning
+YXMOD0A0I,"Yrkesdansarutbildningen; Modern nutida dans, anställd lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande särskild yrkesutbildning
+YXMOD0A0N,"Yrkesdansarutbildningen; Modern nutida dans, anställd lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande särskild yrkesutbildning
+YXMOD0L,"Yrkesdansarutbildningen; Modern nutida dans, lärling",Riksrekryterande särskild yrkesutbildning
+YXMOD0L0I,"Yrkesdansarutbildningen; Modern nutida dans, lärling (Idrottsutbildning vid riksidrottsgymnasium)",Riksrekryterande särskild yrkesutbildning
+YXMOD0L0N,"Yrkesdansarutbildningen; Modern nutida dans, lärling (Nationellt godkänd idrottsutbildning)",Riksrekryterande särskild yrkesutbildning
