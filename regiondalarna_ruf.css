@@ -271,6 +271,11 @@ a:hover { color: var(--rd-primary-dark); text-decoration: underline; }
   border-bottom-color: var(--rd-primary);
 }
 
+/* ---- Luft mellan flikraden och innehållet ---- */
+.tab-content {
+  padding-top: 18px;
+}
+
 /* ---- 8. KORT ---- */
 .rd-card {
   background: #fff;
