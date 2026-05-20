@@ -276,6 +276,55 @@ a:hover { color: var(--rd-primary-dark); text-decoration: underline; }
   padding-top: 18px;
 }
 
+/* ---- Shiny tabsetPanel() (Bootstrap .nav-tabs) i regionprofilen ----
+   Shiny's tabsetPanel() renderar Bootstrap-markup (<ul class="nav nav-tabs">).
+   Reglerna nedan får dessa flikar att se ut som .rd-tab utan att markup behöver bytas.
+   Täcker både BS3 (.nav-tabs > li > a) och BS4+ (.nav-tabs .nav-link). */
+.nav-tabs {
+  display: flex;
+  gap: 4px;
+  border-bottom: 2px solid var(--rd-border);
+  margin-bottom: -1px;
+  padding-left: 0;
+  list-style: none;
+}
+.nav-tabs > li {
+  margin-bottom: 0;
+}
+.nav-tabs > li > a,
+.nav-tabs .nav-link {
+  padding: 10px 18px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--rd-text-muted);
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus,
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link:focus {
+  color: var(--rd-primary);
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover,
+.nav-tabs .nav-link.active:focus {
+  color: var(--rd-primary);
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid var(--rd-primary);
+}
+
 /* ---- 8. KORT ---- */
 .rd-card {
   background: #fff;
