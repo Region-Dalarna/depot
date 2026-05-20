@@ -1,0 +1,6 @@
+/* ===============================================================
+   app.css
+   App-specifik styling för just denna app som används vid behov.
+   Laddas EFTER regiondalarna_ruf.css så att lokala regler
+   kan överstyra den delade identiteten vid behov.
+   =============================================================== */
