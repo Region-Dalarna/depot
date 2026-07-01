@@ -9,36 +9,36 @@ jobs:
     runs-on: [self-hosted, "{{runner_label}}"]
     steps:
       - uses: actions/checkout@v4
-              with:
-                fetch-depth: 0
+        with:
+          fetch-depth: 0
 
-            - name: Sätt datum från git-historik
-              run: |
-                Rscript -e '
-                  qmd <- list.files(".", pattern = "\\.qmd$", full.names = TRUE)
-                  qmd <- qmd[basename(qmd) != "index.qmd"]
-                  for (fil in qmd) {
-                    datum <- system2("git", c("log", "-1", "--format=%cs", "--", fil), stdout = TRUE)
-                    if (length(datum) == 0 || datum == "") next
-                    rader <- readLines(fil, warn = FALSE)
-                    yaml_slut <- which(rader == "---")[2]
+      - name: Sätt datum från git-historik
+        run: |
+          Rscript -e '
+            qmd <- list.files(".", pattern = "\\.qmd$", full.names = TRUE)
+            qmd <- qmd[basename(qmd) != "index.qmd"]
+            for (fil in qmd) {
+              datum <- system2("git", c("log", "-1", "--format=%cs", "--", fil), stdout = TRUE)
+              if (length(datum) == 0 || datum == "") next
+              rader <- readLines(fil, warn = FALSE)
+              yaml_slut <- which(rader == "---")[2]
 
-                    # Ta bort ev. befintlig date:-rad, ENDAST inom YAML-blocket
-                    yaml_block <- rader[1:yaml_slut]
-                    yaml_block <- yaml_block[!grepl("^date:", yaml_block)]
+              # Ta bort ev. befintlig date:-rad, ENDAST inom YAML-blocket
+              yaml_block <- rader[1:yaml_slut]
+              yaml_block <- yaml_block[!grepl("^date:", yaml_block)]
 
-                    # Sätt in nya date:-raden sist i YAML-blocket (före avslutande "---")
-                    yaml_block <- append(yaml_block, paste0("date: ", datum), after = length(yaml_block) - 1)
+              # Sätt in nya date:-raden sist i YAML-blocket (före avslutande "---")
+              yaml_block <- append(yaml_block, paste0("date: ", datum), after = length(yaml_block) - 1)
 
-                    # Sätt ihop YAML-block + resten av filen orört
-                    rader <- c(yaml_block, rader[(yaml_slut + 1):length(rader)])
-                    writeLines(rader, fil)
-                  }
-                '
+              # Sätt ihop YAML-block + resten av filen orört
+              rader <- c(yaml_block, rader[(yaml_slut + 1):length(rader)])
+              writeLines(rader, fil)
+            }
+          '
 
       - name: Installera R-paket från .qmd-filer
         continue-on-error: true
-        run: sudo SOURCE_DIR="$(pwd)" /usr/local/bin/installera_qmd_paket.sh "$(pwd)"
+        run: sudo /usr/local/bin/installera_qmd_paket.sh "$(pwd)"
 
       - name: Render
         run: quarto render
