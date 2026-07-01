@@ -34,12 +34,19 @@
 /* Matchar .rd-header__right span i regiondalarna_ruf.css exakt */
 .navbar-brand::after {
   content: "Samhällsanalys";
-  font-size: 0.55rem;
+  font-size: 0.42rem;
   font-weight: 400;
-  letter-spacing: 0.7px;
+  letter-spacing: 0.3px;
   text-transform: uppercase;
   color: #ffffff;
   opacity: 0.65;
+  white-space: nowrap;
+}
+
+/* Loggan/texten ska inte vara klickbar — bara "← Tillbaka" länkar till startsidan */
+.navbar-brand {
+  pointer-events: none;
+  cursor: default;
 }
 
 /* ---- 2. STARTSIDANS RUBRIK ---- */
@@ -96,6 +103,18 @@
 
 .quarto-listing-table td a:hover {
   text-decoration: underline;
+}
+
+.quarto-listing-table td:nth-child(2) {
+  vertical-align: top;
+}
+
+.beskrivning-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* ---- 5. FOOTER ---- */

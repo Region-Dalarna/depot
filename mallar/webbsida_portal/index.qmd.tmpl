@@ -9,8 +9,9 @@ listing:
     title: "Titel"
     description: "Beskrivning"
     date: "Datum"
-  sort: "date desc"
+  sort: ["date desc", "title"]
   filter-ui: true
+  max-description-length: 100000
 page-layout: full
 title-block-banner: false
 ---
@@ -21,4 +22,23 @@ title-block-banner: false
 </style>
 ```
 
-Den här sidan listar all dokumentation i detta repository. Lägg till en ny `.qmd`-fil i repo-roten med en YAML-header (`title`, `description`, `date`) så dyker den upp automatiskt här vid nästa publicering. Tar du bort filen försvinner den lika automatiskt.
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".quarto-listing-table td:nth-child(2)").forEach(function(cell) {
+    var fullText = cell.textContent.trim();
+    cell.title = fullText;
+
+    // Linda innehållet i ett eget span så line-clamp kan verka
+    // oberoende av tabellcellens egen layoutmotor.
+    cell.innerHTML = "";
+    var span = document.createElement("span");
+    span.className = "beskrivning-clamp";
+    span.textContent = fullText;
+    cell.appendChild(span);
+  });
+});
+</script>
+```
+
+Den här sidan listar all dokumentation i detta repository. Skapa en ny sida med funktionen `dokumentation_sida_skapa()` i func_API.R, eller lägg till en ny `.qmd`-fil manuellt i repo-roten med en YAML-header (`title`, `description`, `date`) — så dyker den upp automatiskt här vid nästa publicering. Tar du bort filen försvinner den lika automatiskt.
